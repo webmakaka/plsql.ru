@@ -70,7 +70,7 @@ permalink: /docs/prepare-to-development/oracle-sample-schemas/
 
 <br/>
 
-    $ wget http://plsql.ru/content/oracle_sample_chemas/hr.sql
+    $ wget http://plsql.ru/website/docs/02-prepare-to-development/04-oracle-sample-schemas/hr.sql
 
 <br/>
 

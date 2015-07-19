@@ -10,8 +10,8 @@ permalink: /sitemap/
 
 <ul>
     <li><a href="/docs/beginning/greetings/">О сайте PLSQL.RU!</a></li>
-    <li><a href="/docs/beginning/intro/">Введение</a>  (необходимо вставить картинки)</li>
-    <li><a href="/docs/beginning/library/">Материалы для изучения PL/SQL</a> (необходимо вставить картинки)</li>
+    <li><a href="/docs/beginning/intro/">Введение</a></li>
+    <li><a href="/docs/beginning/library/">Материалы для изучения PL/SQL</a></li>
     <li><a href="/docs/beginning/what_needs_to_study_plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
 
 </ul>
@@ -24,8 +24,8 @@ permalink: /sitemap/
 <ul>
     <li><a href="/docs/prepare-to-development/oracle_database_installation/">Инсталляция базы данных Oracle</a></li>
     <li><a href="/docs/prepare-to-development/ide_for_plsql_development/">Среды программирования для языка PL/SQL</a></li>
-    <li><a href="/docs/prepare-to-development/sqlplus/">SQL*PLUS</a> (Необходимо вставить картинки) </li>
-    <li><a href="/docs/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a> (Необходимо вставить ссылки на sql скрипты) </li>
+    <li><a href="/docs/prepare-to-development/sqlplus/">SQL*PLUS</a> </li>
+    <li><a href="/docs/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a></li>
     <li><a href="/docs/prepare-to-development/database-objects/">Основные объекты базы данных Oracle</a></li>
 </ul>
 
@@ -37,9 +37,9 @@ permalink: /sitemap/
 
 <ul>
     <li><a href="/docs/sql/oracle_sql_basics/">Основы SQL</a></li>
-    <li><a href="/docs/sql/create_table/">Таблицы (TABLES)</a> (Необходимо вставить картинки) </li>
+    <li><a href="/docs/sql/create_table/">Таблицы (TABLES)</a></li>
     <li><a href="/docs/sql/insert-records-into-table/">Добавить запись в таблицу базы данных Oracle (INSERT)</a></li>
-    <li><a href="/docs/sql/select/">Выборка данных из таблиц базы данных (SELECT)</a> (Необходимо вставить ссылки на sql скрипты)</li>
+    <li><a href="/docs/sql/select/">Выборка данных из таблиц базы данных (SELECT)</a></li>
     <li><a href="/docs/sql/order-by/">Cортировка возвращаемых данных (ORDER BY)</a></li>
     <li><a href="/docs/sql/where/">Ограничение числа выбираемых данных (WHERE)</a></li>
     <li><a href="/docs/sql/group_by/">Группировка данных (GROUP BY)</a></li>
@@ -57,8 +57,8 @@ permalink: /sitemap/
 
 
 <ul>
-    <li><a href="/docs/plsql/plsql_basics/">Основы языка PL/SQL</a> (Необходимо вставить картинки)</li>
-    <li><a href="/docs/plsql/hello-world-plsql/">Простейшая программа на PL/SQL: &quot;Hello World&quot;</a> (Необходимо вставить картинки)</li>
+    <li><a href="/docs/plsql/plsql_basics/">Основы языка PL/SQL</a></li>
+    <li><a href="/docs/plsql/hello-world-plsql/">Простейшая программа на PL/SQL: &quot;Hello World&quot;</a></li>
     <li><a href="/docs/plsql/datatypes/">Типы данных (DATATYPES)</a></li>
     <li><a href="/docs/plsql/scalar/">Скалярные типы данных</a></li>
     <li><a href="/docs/plsql/cursors/">Курсоры (Cursors)</a></li>
@@ -87,6 +87,7 @@ permalink: /sitemap/
 
 <br/><br/>
 
+<div style="padding:10px; border:thin solid black;">
 
 <strong color="red">Хотел разобрать (сделать конспект книги)  <a href="http://padaread.com/?book=16696&pg=1">Молинаро Э. - SQL. Сборник рецептов</a></strong>, применительно к базе Oracle. Если найдутся этнузиасты, можно это сделать намного быстрее. Использовать планирую базу данных Oracle 12c. При необходимости, могу создать виртуальную машину Linux и поделиться со всеми кому нужно.
 
@@ -95,6 +96,8 @@ permalink: /sitemap/
 
 
 Буду признателен за рекомендацию подобной книги уже для PL/SQL.
+
+</div>
 
 <br/>
 <h3>Молинаро Э. - SQL. Сборник рецептов</h3>
@@ -119,27 +122,37 @@ permalink: /sitemap/
 
     <li><a href="/books/molinaro/retrieving_records/providing-meaningful-names-for-columns/">Как задать столбцам значимые имена (AS)</a></li>
 
+    <li><a href="/books/molinaro/retrieving_records/referencing-an-aliased-column-in-the-where-clause/">Обращение к столбцу в предикате WHERE по псевдониму</a></li>
 
+    <li><a href="/books/molinaro/retrieving_records/concatenating-column-values/">Конкатенация значений столбцов</a></li>
 
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/referencing_an_aliased_column_in_the_where_clause/">Обращение к столбцу в предикате WHERE по псеводниму</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/concatenating_column_values">Конкатенация значений столбцов</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/using_conditional_logic_in_a_select_statement">Использование условной логики в выражении SELECT</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/limiting_the_number_of_rows_returned/">Ограничение числа возвращаемых строк</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/returning_n_random_records_from_a_table/">Возвращение n случайных записей таблицы</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/finding_null_values/">Поиск значений NULL (IS NULL)</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/transforming_nulls_into_real_values/">Преобразование значений NULL в не-NULL значения (COALESCE)</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/searching_for_patterns/">Поиск по шаблону (LIKE)</a></li>
+    <li><a href="/books/molinaro/retrieving_records/using-conditional-logic-in-a-select-statements/">Использование условной логики в выражении SELECT</a></li>
+
+    <li><a href="/books/molinaro/retrieving_records/limiting-the-number-of-rows-returneds/">Ограничение числа возвращаемых строк</a></li>
+
+    <li><a href=" /books/molinaro/retrieving_records/returning-n-random-records-from-a-table/">Возвращение n случайных записей таблицы</a></li>
+
+    <li><a href="/books/molinaro/retrieving_records/finding-null-values/">Поиск значений NULL (IS NULL)</a></li>
+
+    <li><a href="/books/molinaro/retrieving_records/transforming-nulls-into-real-values/">Преобразование значений NULL в не-NULL значения (COALESCE)</a></li>
+
+    <li><a href="/books/molinaro/retrieving_records/searching-for-patterns/">Поиск по шаблону (LIKE)</a></li>
 </ul>
 
 
 <br/><br/>
-<h4><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/">Сортировка результатов запроса</a></h4>
+<h4><a href="/books/molinaro/sorting-query-results/">Сортировка результатов запроса</a></h4>
 
 <ul>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/returning_query_results_in_a_specified_order/">Возвращение результатов запроса в заданном порядке (ORDER BY)</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/sorting_by_multiple_fields/">Сортировка по нескольким полям (ORDER BY)</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/sorting_by_substrings/">Сортировка по подстрокам</a></li>
-<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/sorting_mixed_alphanumeric_data/">Сортировка смешанных буквенно-цифровых данных (TRANSLATE и REPLACE)</a></li>
+
+    <li><a href="/books/molinaro/sorting-query-results/returning-query-results-in-a-specified-order/">Возвращение результатов запроса в заданном порядке (ORDER BY)</a></li>
+
+    <li><a href="/books/molinaro/sorting-query-results/sorting-by-multiple-fields/">Сортировка по нескольким полям (ORDER BY)</a></li>
+
+    <li><a href="/books/molinaro/sorting-query-results/sorting-by-substrings/">Сортировка по подстрокам</a></li>
+
+    <li><a href="/books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data/">Сортировка смешанных буквенно-цифровых данных (TRANSLATE и REPLACE)</a></li>
+
 </ul>
 
 

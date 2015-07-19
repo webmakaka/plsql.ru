@@ -30,10 +30,10 @@ permalink: /docs/sql/select/
     FROM russian_team;
 
 <br/><br/>
-<br/>
+
 
 <div align="center">
-<img src="russiantea.png" border="0" alt="russian team">
+<img src="/website/docs/03-sql/04-select/russian-team.png" border="0" alt="russian team">
 </div>
 
 

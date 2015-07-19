@@ -17,7 +17,7 @@ permalink: /docs/prepare-to-development/sqlplus/
 
 
 <div align="center">
-<img src="putty1.png" border="0" alt="SQL PLUS">
+<img src="/website/docs/02-prepare-to-development/03-sqlplus/putty1.png" border="0" alt="SQL PLUS">
 </div>
 
 
@@ -25,7 +25,7 @@ permalink: /docs/prepare-to-development/sqlplus/
 <br />
 
 <div align="center">
-<img src="putty2.png" border="0" alt="SQL PLUS">
+<img src="/website/docs/02-prepare-to-development/03-sqlplus/putty2.png" border="0" alt="SQL PLUS">
 </div>
 
 
@@ -33,7 +33,7 @@ permalink: /docs/prepare-to-development/sqlplus/
 <br />
 
 <div align="center">
-<img src="putty3.png" border="0" alt="SQL PLUS">
+<img src="/website/docs/02-prepare-to-development/03-sqlplus/putty3.png" border="0" alt="SQL PLUS">
 </div>
 
 
@@ -41,5 +41,5 @@ permalink: /docs/prepare-to-development/sqlplus/
 <br />
 
 <div align="center">
-<img src="putty4.png" border="0" alt="SQL PLUS">
+<img src="/website/docs/02-prepare-to-development/03-sqlplus/putty4.png" border="0" alt="SQL PLUS">
 </div>

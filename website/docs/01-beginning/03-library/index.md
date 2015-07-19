@@ -20,7 +20,7 @@ permalink: /docs/beginning/library/
 <br/><br/>
 
 <div align="center">
-	<img src="plsqlbook.jpg" border="0" alt="Oracle SQL Specialist">
+	<img src="/website/docs/01-beginning/03-library/plsqlbook.jpg" border="0" alt="Oracle SQL Specialist">
 </div>
 
 
@@ -59,7 +59,7 @@ hxxp://padaread.com/?book=23286
 <br/>
 
 <div align="center">
-	<img src="oracle-sql-plsql.png" border="0" alt="Oracle SQL Specialist">
+	<img src="/website/docs/01-beginning/03-library/oracle-sql-plsql.png" border="0" alt="Oracle SQL Specialist">
 </div>
 
 
@@ -107,7 +107,7 @@ hxxp://rutracker.org/forum/viewtopic.php?t=4917623
 <br/><br/>
 
 <div align="center">
-	<img src="molinaro_sql_recepts.jpg" border="0" alt="Oracle SQL Specialist">
+	<img src="/website/docs/01-beginning/03-library/molinaro_sql_recepts.jpg" border="0" alt="Oracle SQL Specialist">
 </div>
 
 <br/><br/>

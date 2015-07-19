@@ -19,7 +19,7 @@ permalink: /docs/plsql/plsql_basics/
 
 <br/><br/>
 
-<div align="center"><img src="plsql_blok.png" border="0" alt="PL/SQL BLOCK"></div>
+<div align="center"><img src="/website/docs/04-plsql/01-plsql_basics/plsql_blok_01.png" border="0" alt="PL/SQL BLOCK"></div>
 
 <br/><br/>
 
@@ -51,7 +51,9 @@ permalink: /docs/plsql/plsql_basics/
 
 <br/><br/>
 
-<div align="center"><img src="plsql_blok2.png" border="0" alt="PL/SQL BLOCK">
+
+<div align="center">
+<img src="/website/docs/04-plsql/01-plsql_basics/plsql_blok_02.png" border="0" alt="PL/SQL BLOCK">
 </div>
 
 

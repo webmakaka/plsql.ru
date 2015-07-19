@@ -13,7 +13,7 @@ permalink: /docs/sql/create_table/
 <br/><br/>
 
 <div align="center">
-<img src="table.png" border="0" alt="Tables">
+<img src="/website/docs/03-sql/02-create_table/table.png" border="0" alt="Tables">
 </div>
 
 <br/><br/>
@@ -33,13 +33,13 @@ permalink: /docs/sql/create_table/
 <br/><br/>
 
 <div align="center">
-<img src="systemassy.png" border="0" alt="system as sysem">
+<img src="/website/docs/03-sql/02-create_table/system.png" border="0" alt="system as sysem">
 </div>
 
 <br/><br/>
 
 <div align="center">
-<img src="createuser.png" border="0" alt="creating user manager">
+<img src="/website/docs/03-sql/02-create_table/create-user.png" border="0" alt="creating user manager">
 </div>
 
 <br/><br/>
@@ -62,7 +62,7 @@ permalink: /docs/sql/create_table/
 
 
 <div align="center">
-<img src="managerasm.png" border="0" alt="manager as manager">
+<img src="/website/docs/03-sql/02-create_table/manager-as-manager.png" border="0" alt="manager as manager">
 </div>
 
 <br/><br/>
