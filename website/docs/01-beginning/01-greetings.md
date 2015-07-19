@@ -1,0 +1,42 @@
+---
+layout: page
+title: О сайте PLSQL.RU!
+permalink: /docs/beginning/greetings/
+---
+
+### О сайте PLSQL.RU!
+
+Мы рады Вас приветствовать на нашем сайте!
+Сайт посвящен программированию для баз данных Oracle на языке PL/SQL.
+Предполагается охватить вопросы от проектирования баз данных до их внедрения.
+
+
+Материалы постепенно добавляются и изменяются с появлением новых знаний.
+Если вы программируете на PL/SQL и готовы поделиться своим опытом с интернет общественностью, пишите.
+
+
+
+Это уже 4-я версия сайта. <br/>
+Первая работала на Oracle Database + Java EE + Weblogic<br/>
+Вторая на Ruby on Rails<br/>
+Третья - обыный статический HTML (пара php функций include не считается). Но зато стало возможным достаточно быстро вносить изменения в исходные тексты страниц.<br/>
+Четвертая - Jekyll + GitHub. Исходники находятся на github и сам сайт подгружается непосредственно с github из бранча gh-pages.
+<br/>
+
+
+Исходники доступны всем кому интересно.
+
+<br/><br/>
+<br/><br/>
+
+
+
+ <p>     <strong>Ссылки на официальную документацию на английском языке:</strong></p>
+
+
+
+  <ul>
+    <li><a href="http://download.oracle.com/docs/cd/E11882_01/server.112/e17118/title.htm">Oracle® Database SQL Language Reference 11g Release 2 (11.2)</a></li>
+    <li><a href="http://download.oracle.com/docs/cd/E11882_01/appdev.112/e17126/toc.htm">Oracle® Database PL/SQL Language Reference 11g Release 2 (11.2)</a></li>
+
+  </ul>

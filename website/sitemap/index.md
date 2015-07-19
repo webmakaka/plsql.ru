@@ -5,310 +5,192 @@ permalink: /sitemap/
 ---
 
 
-<h1>Oracle DataBase</h1>
+
+<h3>Вводная информация</h3>
+
+<ul>
+    <li><a href="/docs/beginning/greetings/">О сайте PLSQL.RU!</a></li>
+    <li><a href="/docs/beginning/intro/">Введение</a>  (необходимо вставить картинки)</li>
+    <li><a href="/docs/beginning/library/">Материалы для изучения PL/SQL</a> (необходимо вставить картинки)</li>
+    <li><a href="/docs/beginning/what_needs_to_study_plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
+
+</ul>
+
+
 
 <br/>
-<h3>Введение:</h3>
+<h3>Подготовка к программированию</h3>
 
 <ul>
-    <li><a href="/docs/intro/">Пара слов о базах данных Oracle</a></li>
-    <li><a href="/docs/library/">С чего начать изучение Oracle?</a> (Каталог обучающих материалов)</li>
-    <li><a href="/docs/library/paid-courses/">Oracle Видеокурсы на английском (без ссылок на скачку)</a> (Каталог обучающих материалов)</li>
-     <li><a href="/docs/links/">Ссылки на документацию по Oracle</a></li>
-     <li><a href="/docs/webinars/">Записи вебинаров по Oracle</a></li>
-     <li><a href="/docs/questions-on-interview/">Вопросы, которые задают претендентам на позицию Oracle DBA на собеседованиях</a></li>
-    <li><a href="/docs/requirements-on-international-companies/">Требования к кандидатам на позицию Oracle DBA в иностранных компаниях</a></li>
-    <li><a href="/docs/database/certification/">Сертификация Oracle</a></li>
-
-</ul>
-
-
-<br/><br/>
-<h3>Инсталляция Oracle DataBase:</h3>
-
-<ul>
-    <li><a href="/oracle_database_installation/"><strong>Инсталляция Oracle DataBase</strong></a></li>
-</ul>
-
-
-<br/><br/>
-<h3>Основы:</h3>
-
-<ul>
-    <li>
-        <a href="/docs/startup-and-shutdown-oracle-instance/">Режимы запуска и останова базы данных Oracle</a>
-    </li>
-</ul>
-
-
-<br/><br/>
-<h3>Архитектура баз данных Oracle:</h3>
-
-
-<ul>
-    <li>
-        <a href="/docs/architecture/instance/">Экземпляр базы данных Oracle (Oracle DataBase Instance)</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/files/">Файлы базы данных Oracle (Oracle DataBase Files)</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/memory/">Структуры памяти Oracle</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/proceses/">Процессы Oracle (Oracle DataBase Proceses)</a>
-    </li>
-
+    <li><a href="/docs/prepare-to-development/oracle_database_installation/">Инсталляция базы данных Oracle</a></li>
+    <li><a href="/docs/prepare-to-development/ide_for_plsql_development/">Среды программирования для языка PL/SQL</a></li>
+    <li><a href="/docs/prepare-to-development/sqlplus/">SQL*PLUS</a> (Необходимо вставить картинки) </li>
+    <li><a href="/docs/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a> (Необходимо вставить ссылки на sql скрипты) </li>
+    <li><a href="/docs/prepare-to-development/database-objects/">Основные объекты базы данных Oracle</a></li>
 </ul>
 
 
 
-<br/><br/>
-<h3>Управление табличными пространствами:</h3>
+<br/>
+<h3>SQL</h3>
+
 
 <ul>
-    <li>
-        <a href="/docs/architecture/tablespaces/about-tablespaces/">Табличные пространства Oracle </a>
-    </li>
-    <li>
-        <a href="/docs/architecture/tablespaces/create_new_tablespace/">Создание табличных пространств</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/tablespaces/additional_tablespace/">Расширение табличных пространств (создание дополнительных файлов для табличных пространств)</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/tablespaces/segments_extents_and_blocks/">Сегменты > Экстенты > Блоки</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/tablespaces/undo-tablespace/">Команды для анализа использования UNDOTBS</a>
-    </li>
+    <li><a href="/docs/sql/oracle_sql_basics/">Основы SQL</a></li>
+    <li><a href="/docs/sql/create_table/">Таблицы (TABLES)</a> (Необходимо вставить картинки) </li>
+    <li><a href="/docs/sql/insert-records-into-table/">Добавить запись в таблицу базы данных Oracle (INSERT)</a></li>
+    <li><a href="/docs/sql/select/">Выборка данных из таблиц базы данных (SELECT)</a> (Необходимо вставить ссылки на sql скрипты)</li>
+    <li><a href="/docs/sql/order-by/">Cортировка возвращаемых данных (ORDER BY)</a></li>
+    <li><a href="/docs/sql/where/">Ограничение числа выбираемых данных (WHERE)</a></li>
+    <li><a href="/docs/sql/group_by/">Группировка данных (GROUP BY)</a></li>
+    <li><a href="/docs/sql/having/">Ограничение числа сгруппированных данных (HAVING)</a></li>
+    <li><a href="/docs/sql/join/">Выборка данных из нескольких таблиц (JOIN)</a></li>
+    <li><a href="/docs/sql/outer_join/">Создание внешних соединений (OUTER JOIN)</a></li>
+</ul>
+
+
+
+
+
+<br/>
+<h3>PL/SQL</h3>
+
+
+<ul>
+    <li><a href="/docs/plsql/plsql_basics/">Основы языка PL/SQL</a> (Необходимо вставить картинки)</li>
+    <li><a href="/docs/plsql/hello-world-plsql/">Простейшая программа на PL/SQL: &quot;Hello World&quot;</a> (Необходимо вставить картинки)</li>
+    <li><a href="/docs/plsql/datatypes/">Типы данных (DATATYPES)</a></li>
+    <li><a href="/docs/plsql/scalar/">Скалярные типы данных</a></li>
+    <li><a href="/docs/plsql/cursors/">Курсоры (Cursors)</a></li>
+    <li><a href="/docs/plsql/variables/">Переменные (VARIABLES)</a></li>
+    <li><a href="/docs/plsql/if-then-else/">Условная логика (IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE)</a></li>
+    <li><a href="/docs/plsql/loops/">Циклы (LOOPS)</a></li>
+    <li><a href="/docs/plsql/stored-procedures/">Хранимые Процедуры (STORED PROCEDURES)</a></li>
+    <li><a href="/docs/plsql/stored-functions/">Хранимые функции (STORED FUNCTONS)</a></li>
+    <li><a href="/docs/plsql/packages/">Пакеты (PACKAGES)</a></li>
+    <li><a href="/docs/plsql/triggers">Триггеры (TRIGGERS)</a></li>
+</ul>
+
+
+
+
+<br/>
+<h3>PL/SQL Разное</h3>
+
+<ul>
+    <li><a href="/docs/other/interview_questions/">Вопросы на собеседовании</a></li>
+    <li><a href="/docs/other/summa_propis/">Сумма Прописью</a></li>
+    <li><a href="/docs/other/code-formatting/">Примеры оформления кода PL/SQL</a></li>
 </ul>
 
 
 
 <br/><br/>
-<h3>Индексы:</h3>
 
+
+<strong color="red">Хотел разобрать (сделать конспект книги)  <a href="http://padaread.com/?book=16696&pg=1">Молинаро Э. - SQL. Сборник рецептов</a></strong>, применительно к базе Oracle. Если найдутся этнузиасты, можно это сделать намного быстрее. Использовать планирую базу данных Oracle 12c. При необходимости, могу создать виртуальную машину Linux и поделиться со всеми кому нужно.
+
+
+Отмечу, что в отличие от программирования на PL/SQL, лично мне намного сложнее создавать 3-х и 4-х этажные SQL запросы и потом их оптимизировать.
+
+
+Буду признателен за рекомендацию подобной книги уже для PL/SQL.
+
+<br/>
+<h3>Молинаро Э. - SQL. Сборник рецептов</h3>
+
+
+
+<a href="/books/molinaro/prepare-environment/">Подготовка окружения</a>
+
+
+
+
+<h4><a href="/books/molinaro/retrieving_records/">Извлечение записей</a></h4>
 
 <ul>
-    <li>
-        <a href="/docs/architecture/indexes/">Индексы Oracle</a>
-    </li>
+    <li><a href="/books/molinaro/retrieving_records/retrieving-all-rows-and-columns-from-a-table/">Извлечение всех строк и столбцов из таблицы (SELECT)</a></li>
+
+    <li><a href="/books/molinaro/retrieving_records/retrieving-a-subset-of-rows-from-a-table/">Извлечение подмножества строк из таблицы (WHERE)</a></li>
+
+    <li><a href="/books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple-conditions//">Выбор строк по нескольким условиям</a></li>
+
+    <li><a href="/books/molinaro/retrieving_records/retrieving-a-subset-of-columns-from-a-table/">Извлечение подмножества столбцов из таблицы</a></li>
+
+    <li><a href="/books/molinaro/retrieving_records/providing-meaningful-names-for-columns/">Как задать столбцам значимые имена (AS)</a></li>
+
+
+
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/referencing_an_aliased_column_in_the_where_clause/">Обращение к столбцу в предикате WHERE по псеводниму</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/concatenating_column_values">Конкатенация значений столбцов</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/using_conditional_logic_in_a_select_statement">Использование условной логики в выражении SELECT</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/limiting_the_number_of_rows_returned/">Ограничение числа возвращаемых строк</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/returning_n_random_records_from_a_table/">Возвращение n случайных записей таблицы</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/finding_null_values/">Поиск значений NULL (IS NULL)</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/transforming_nulls_into_real_values/">Преобразование значений NULL в не-NULL значения (COALESCE)</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/retrieving_records/searching_for_patterns/">Поиск по шаблону (LIKE)</a></li>
 </ul>
 
 
 <br/><br/>
-<h3>Пользователи, схемы и их сессии к базе данных Oracle:</h3>
-
-
-<ul>
-    <li>
-        <a href="/docs/architecture/schemas/basics/">Схемы Oracle</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/schemas/user-permissions/">Системные и объектные полномочия пользователей в базе данных Oracle</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/schemas/sessions/">Сессии к базе данных Oracle</a>
-    </li>
-</ul>
-
-
-
-
-<br/><br/>
-<h3>Транзакции:</h3>
-
+<h4><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/">Сортировка результатов запроса</a></h4>
 
 <ul>
-    <li>
-        <a href="/docs/architecture/transactions/simple-transaction/">Простая транзакция базы данных Oracle</a><br/>
-    </li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/returning_query_results_in_a_specified_order/">Возвращение результатов запроса в заданном порядке (ORDER BY)</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/sorting_by_multiple_fields/">Сортировка по нескольким полям (ORDER BY)</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/sorting_by_substrings/">Сортировка по подстрокам</a></li>
+<li><a href="http://<?php echo $_SERVER['HTTP_HOST'];?>/sql/sql_cookbook/sorting_query_results/sorting_mixed_alphanumeric_data/">Сортировка смешанных буквенно-цифровых данных (TRANSLATE и REPLACE)</a></li>
 </ul>
 
-
-
-
-<br/><br/>
-<h3>Oracle Networking:</h3>
-
-
-<ul>
-    <li>
-        <a href="/docs/architecture/networking/">Конфигурационные файлы listener.ora, tnsnames.ora и утилита LSNRCTL</a>
-    </li>
-</ul>
-
-
-
-<br/><br/>
-<h3>Резервное копирование баз данных Oracle:</h3>
-
-
-<ul>
-    <li>
-        <a href="/docs/architecture/backups/data_pump/">Утилиты экспорта и импорта данных Data Pump (Резервное копирование объектов схемы)</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/backups/oracle-11-transportable-tablespaces/">Транспортируемые табличные пространства в Oracle 11g</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/backups/oracle_database_backup/">Резервное копирование баз данных Oracle</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/backups/oracle-rman/">Утилита RMAN (Recovery Manager)</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/backups/oracle-rman-backup/">Создание резервных копий с помощью утилиты RMAN (Recovery Manager)</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/backups/oracle-rman-restore-and-recover/">Восстановление из резервой копий с помощью утилиты RMAN (Recovery Manager)</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/backups/oracle-rman-delete/">Удаление объектов RMAN (Recovery Manager)</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/backups/low-space-in-fra/">Недостаточно свободного места в Fast Recovery Area</a>
-    </li>
-</ul>
-
-
-
-<br/><br/>
-<h3>Восстановление файлов и данных:</h3>
-
-
-<ul>
-    <li>
-        <a href="/docs/architecture/restore-files-and-data/flashback-queries/">FlashBack queries</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/restore-files-and-data/oracle-database-has-been-lost/">Потеря файла</a>
-    </li>
-</ul>
-
-
-<br/><br/>
-<h3>Настройка производительности баз данных Oracle:</h3>
-
-
-<ul>
-    <li>
-        <a href="/docs/architecture/performance/performance-or-reliability/">Выбор между производительностью и надежностью ОRАСLЕ</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/performance/session_statistic/">Собрать статистику пользовательской сессии</a>
-    </li>
-</ul>
-
-
-
-
-<br/><br/>
-<h3>Мониторинг:</h3>
-
-
-<ul>
-    <li>
-        <a href="http://odba.ru/showthread.php?t=744">Инсталляция Oracle Enterprise Manager Cloud control 12c в операционной системе Oracle Linux 5.8 x86 64 bit</a>
-    </li>
-</ul>
-
-
-
-<br/><br/>
-<h3>Разное:</h3>
-
-
-<ul>
-    <li>
-        <a href="/docs/architecture/other/sheduler/">Sheduler Oracle</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/other/poisk-dublikatov/">Поиск одинаковых записей в базе данных</a>
-    </li>
-    <li>
-        <a href="/docs/architecture/other/oracle_err_catcher/">Создание ловца ошибок (тестим)</a>
-    </li>
-</ul>
-
-
-<br/><br/>
-
-<h3>Некоторые запросы к базе данных Oracle:</h3>
-<a href="/docs/architecture/queries/query/">Некоторые запросы к базе данных Oracle</a><br/>
-
-
-<hr>
-
-
-
-<h1>Oracle Fusion Middleware</h1>
-
-
-<h3>Сервер приложений Oracle Weblogic:</h3>
-
-
-<ul>
-    <li>
-        <a href="/docs/appserv/weblogic/weblogic-versions/">Версии Weblogic</a>
-    </li>
-    <li>
-        <a href="https://docs.google.com/document/d/11vBXmPQzIx2KnxuurIdVImCvyqwGca_u0j4gKmlVJuc/edit">Инсталляция сервера приложений Oracle Weblogic в операционной системе Oracle Linux</a>
-    </li>
-    <li>
-        <a href="/docs/appserv/weblogic/weblogic_patches/">О патчах для Oracle WebLogic Server</a>
-    </li>
-    <li>
-        <a href="/docs/appserv/weblogic/weblogic-seminar/">Практический обучающий курс для партнеров Oracle по серверу приложений Weblogic</a>
-    </li>
-
-</ul>
-
-
-<br/><br/>
-<h3>Oracle Business Intelligence:</h3>
-
-
-
-<ul>
-    <li>
-        <a href="/docs/business-intelligence/installation/">Инсталляция Oracle Business Intelligence Enterprise Edition (OBIEE)</a>
-    </li>
-</ul>
-
-
-
-<hr>
-
-
-<h1>Программирование для баз данных Oracle:</h1>
-<ul>
-	<li><a href="http://plsql.ru/">Программирование на PL/SQL</a></li>
-	<li><a href="http://oracle-adf.ru/">Программирование на Java с использованием технологии Oracle ADF</a></li>
-</ul>
 
 <br/><br/>
 <hr/>
 <br/><br/>
 
 
-
-
 <div style="padding:10px; border:thin solid black;">
 
-	<h3>Если кто захочет присоединиться и добавить свои знания на сайт.</h3>
+  <h3>Если кто захочет присоединиться и добавить свои знания на сайт.</h3>
 
-	Если вы профессионально занимаетесь Oracle или планируете профессионально им заниматься, можете подключиться к наполнению сайта новыми знаниями.
+Если вы профессионально занимаетесь Oracle или планируете профессионально им заниматься, можете подключиться к наполнению сайта новыми знаниями.
+Сайт целиком вы можете запустить у себя на виртуальной машине linux в несколько команд и обращаться к нему как к базе знаний.
+Если вы добавите своих знаний в общую копилку, возможно они помогут кому-нибудь или вы сами сможете, при необходимости, обратиться к ним, когда они понадобятся.
 
-	<br/><br/>
+<br/><br/>
+Например, смотрите какой-нибудь профессиональный видеокурс или читаете профессиональную литературу и нашли, что-то полезное и хотите записать это куда-нибудь для того, чтобы потом не забыть. Можете записать на этом сайте.
 
-	Если вы добавите своих знаний в общую копилку, возможно они помогут какому-нибудь другому Oracle DBA или вы сами сможете, при необходимости, обратиться к ним, когда они понадобятся.
+<br/><br/>
 
-	<br/><br/>
-	<a href="/info/how-to-add-information-on-site/">Более подробно написано здесь.</a>
+При желании, сделав pull request и после его approve, все кто развернул сайт у себя,
+могут одной командой получить все текущие обновления, а так как сайт построен по сути
+на обычном HTML, любой технический специалист, способен разобраться.
 
 
+<h3>Зачем мне это нужно, как это поможет моей карьере?</h3>
+
+Можно попробовать разместить свое резюме, получить рекомендации как участника проекта.
+На проектах иногда требуется не один человек, а несколько. Можно как-то совместно организовывать поиски как группа специалистов. Может и на зарубежных сайтах.
+
+<br/><br/>
+
+Добавленный материал сохраняется за добавившим его. Можете оставить свой email, twitter, facebook, linkedin, etc. Может быть это кому-нибудь поможет улучшить свое резюме или еще что.
+<br/><br/>
+
+Может какие другие варианты?
+
+<h3>Может какие дополнительные плюшки?</h3>
+
+Почему бы и нет? Может какие материалы, которые сложно достать, можно обмениваться между участниками.
+
+<br/>
+Какие-то материалы с закрытых конференций, корпоративных семинаров и д.р. (Чего только нет у уволившихся сотрудников. :)))
 
 
+</div>
+
+<br/><br/>
+<br/><br/>
+
+<div align="right">
+	Обратная связь:  <br/><img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley" border="0" />
 </div>
