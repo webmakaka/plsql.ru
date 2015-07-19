@@ -12,8 +12,9 @@ permalink: /sitemap/
     <li><a href="/docs/beginning/greetings/">О сайте PLSQL.RU!</a></li>
     <li><a href="/docs/beginning/intro/">Введение</a></li>
     <li><a href="/docs/beginning/library/">Материалы для изучения PL/SQL</a></li>
-    <li><a href="/docs/beginning/what_needs_to_study_plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
     <li><a href="/docs/beginning/video-courses/">Видео курсы для изучения PL/SQL (без ссылок на скачивание)</a></li>
+    <li><a href="/docs/beginning/what_needs_to_study_plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
+
 
 </ul>
 
