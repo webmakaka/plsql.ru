@@ -1,6 +1,6 @@
-# prev.plsql.ru
+# plsql.ru
 
-Как скопировать и запустить oracle-dba.ru на свой хост с использованием docker контейнера:
+Как скопировать и запустить plsql.ru на свой хост с использованием docker контейнера:
 
 Инсталлируете docker, далее:
 
@@ -11,8 +11,8 @@
 
     source ~/.bash_profile
     cd /projects
-    git clone --depth=1 https://github.com/oradev/oradev.github.io
-    cd oradev.github.io
+    git clone --depth=1 https://github.com/plsql/plsql.ru
+    cd plsql.ru
     gem install jekyll
     jekyll serve --watch  --host 0.0.0.0 --port 8080
 
