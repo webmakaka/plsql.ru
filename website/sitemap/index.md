@@ -24,7 +24,7 @@ permalink: /sitemap/
 <h3>Подготовка к программированию</h3>
 
 <ul>
-    <li><a href="/docs/prepare-to-development/oracle_database_installation/">Инсталляция базы данных Oracle</a></li>
+    <li><a href="/docs/prepare-to-development/oracle-database-installation/">Инсталляция базы данных Oracle</a></li>
     <li><a href="/docs/prepare-to-development/ide_for_plsql_development/">Среды программирования для языка PL/SQL</a></li>
     <li><a href="/docs/prepare-to-development/sqlplus/">SQL*PLUS</a> </li>
     <li><a href="/docs/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a></li>

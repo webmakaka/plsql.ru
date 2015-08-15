@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Инсталляция базы данных Oracle
-permalink: /docs/prepare-to-development/oracle_database_installation/
+permalink: /docs/prepare-to-development/oracle-database-installation/
 ---
 
 
@@ -35,5 +35,6 @@ permalink: /docs/prepare-to-development/oracle_database_installation/
 
 <br/><br/>
 
-<p>Если с инсталляцией сервера баз данных в Linux возникнут проблемы, предлагаем <a href="http://odba.ru/showthread.php?t=294">установить сервер баз данных  Oracle в операционной системе Windows </a>.
+<p>Если с инсталляцией сервера баз данных в Linux возникнут проблемы, предлагаем
+<a href="http://odba.ru/showthread.php?t=294">установить сервер баз данных  Oracle в операционной системе Windows </a>.
 </p>
