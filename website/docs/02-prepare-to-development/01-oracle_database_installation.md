@@ -9,7 +9,7 @@ permalink: /docs/prepare-to-development/oracle-database-installation/
 
 
 Инструкцию, как установить базу данных Oracle, смотри лучше
-<a href="http://oracle-dba.ru/oracle_database_installation/"><strong>здесь</strong></a>. Лучше ставить 12с, т.к. она более новая и в ней не будет возникать проблем из-за перевода времени. Из-за этой ошибки, в Oracle 11G Enterprise Manager не запустится, нужны будут патчи чтобы все исправить, которых лично у меня нет. Вообщем 12с при прочих равных.
+<a href="http://localhost/docs/oracle-database/installation/"><strong>здесь</strong></a>. Лучше ставить 12с, т.к. она более новая и в ней не будет возникать проблем из-за перевода времени. Из-за этой ошибки, в Oracle 11G Enterprise Manager не запустится, нужны будут патчи чтобы все исправить, которых лично у меня нет. Вообщем 12с при прочих равных.
 
 <br/>
 
