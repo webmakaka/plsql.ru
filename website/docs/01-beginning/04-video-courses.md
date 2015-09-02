@@ -11,20 +11,30 @@ permalink: /docs/beginning/video-courses/
 
 **Pluralsight:**
 
-Oracle PL/SQL Fundamentals - Part 1
-Oracle PL/SQL Fundamentals - Part 2
-Oracle PL/SQL: Transactions, Dynamic SQL & Debugging
-Working with Collections in Oracle PL/SQL
-Optimizing SQL Queries in Oracle
-Advanced SQL Queries in Oracle and SQL Server
+    Oracle PL/SQL Fundamentals - Part 1
+    Oracle PL/SQL Fundamentals - Part 2
+    Oracle PL/SQL: Transactions, Dynamic SQL & Debugging
+    Working with Collections in Oracle PL/SQL
+    Optimizing SQL Queries in Oracle
+    Advanced SQL Queries in Oracle and SQL Server
+    Oracle Performance Tuning for Developers
+
 
 **Udemy:**
 
-Udemy - PLSQL by Example
+    Udemy - PLSQL by Example
+
+Как оказалось, любой платный или бесплатный курс с Udemy можно скачать, но без доп материалов.
+
+hxxp://rutracker.org/forum/viewtopic.php?p=68462105#68462105
+
+На Udemy лежит много чего интересного по Oracle.
+
+
 
 **infiniteskills:**
 
-Learning Oracle PL/SQL
+    Learning Oracle PL/SQL
 
 
 Сколько всего по-хорошему то изучить нужно.

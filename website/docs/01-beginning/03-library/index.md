@@ -24,16 +24,13 @@ permalink: /docs/beginning/library/
 </div>
 
 
-<br/><br/>
-
-6-e издание:
-
-<br/>
+6-e издание:<br/>
 hxxp://rutracker.org/forum/viewtopic.php?p=66266254#66266254
-<br/><br/>
+
 
 или на сайте
-<br/><br/>
+<br/>
+
 hxxp://infosliv.club/threads/oracle-pl-sql-6-e-izdanie.2490/
 
 <!--
@@ -78,36 +75,6 @@ TTH: 1E304EE5F4680F32B5806B5B4EA5B85DD1548831
 
 По следующим ссылкам можно найти еще больше:<br/>
 http://pastebin.com/raw.php?i=xuHMmNfm
-
-
-<br/>
-**[pluralsight] Optimizing SQL Queries in Oracle [2014, ENG]**  
-hxxp://rutracker.org/forum/viewtopic.php?t=4916787
-
-
-**[pluralsight] Oracle Performance Tuning for Developers [2014, ENG]**  
-hxxp://rutracker.org/forum/viewtopic.php?t=4917587
-
-
-**[pluralsight.com] Oracle PL/SQL Fundamentals**  
-
-
-**[pluralsight.com] Oracle PL/SQL Fundamentals - Part 1 [2014, ENG]**  
-hxxp://rutracker.org/forum/viewtopic.php?t=4917640
-
-
-**[pluralsight.com] Oracle PL/SQL Fundamentals - Part 2 [2014, ENG]**  
-hxxp://rutracker.org/forum/viewtopic.php?t=4917623
-
-<br/>
-
-
-<br/>
-
-**Как оказалось, любой платный или бесплатный курс с Udemy можно скачать**
-hxxp://rutracker.org/forum/viewtopic.php?p=68462105#68462105
-
-На Udemy лежит много чего интересного по Oracle. 
 
 
 <br/>
