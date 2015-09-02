@@ -66,7 +66,7 @@ hxxp://padaread.com/?book=23286
 <br/>
 <br/>
 
-<strong>Oracle 11g: Основы SQL и PL/SQL [2012, RUS]</strong></br>
+<strong>Oracle 11g: Основы SQL и PL/SQL [2012, RUS]</strong><br/>
 hxxp://rutracker.org/forum/viewtopic.php?t=4708982
 
 
@@ -100,6 +100,15 @@ hxxp://rutracker.org/forum/viewtopic.php?t=4917640
 hxxp://rutracker.org/forum/viewtopic.php?t=4917623
 
 <br/>
+
+
+<br/>
+
+**Как оказалось, любой платный или бесплатный курс с Udemy можно скачать**
+hxxp://rutracker.org/forum/viewtopic.php?p=68462105#68462105
+
+На Udemy лежит много чего интересного по Oracle. 
+
 
 <br/>
 <h3>Молинаро Э. - SQL. Сборник рецептов</h3>
