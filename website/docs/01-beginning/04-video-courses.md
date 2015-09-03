@@ -25,13 +25,6 @@ permalink: /docs/beginning/video-courses/
     Udemy - PLSQL by Example
     Oracle PL/SQL Fundamentals vol. I & II
 
-Как оказалось, любой платный или бесплатный курс с Udemy можно скачать, но без доп материалов.
-
-hxxp://rutracker.org/forum/viewtopic.php?p=68462105#68462105
-
-На Udemy лежит много чего интересного по Oracle.
-
-
 
 **infiniteskills:**
 
