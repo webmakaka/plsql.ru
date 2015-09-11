@@ -118,7 +118,7 @@ permalink: /sitemap/
 
     <li><a href="/books/molinaro/retrieving_records/retrieving-a-subset-of-rows-from-a-table/">Извлечение подмножества строк из таблицы (WHERE)</a></li>
 
-    <li><a href="/books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple-conditions//">Выбор строк по нескольким условиям</a></li>
+    <li><a href="/books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple-conditions/">Выбор строк по нескольким условиям</a></li>
 
     <li><a href="/books/molinaro/retrieving_records/retrieving-a-subset-of-columns-from-a-table/">Извлечение подмножества столбцов из таблицы</a></li>
 
