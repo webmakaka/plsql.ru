@@ -24,3 +24,6 @@ permalink: /job/
 
 Для контактов:<br/>
 <img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley" border="0" />
+
+
+Желающие помогать с добавлением материалов, мы можем искать работу совместными усилиями.
