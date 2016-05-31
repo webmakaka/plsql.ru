@@ -52,7 +52,12 @@ permalink: /sitemap/
 </ul>
 
 
+<br/>
+<h3>SQL Разное</h3>
 
+<ul>
+    <li><a href="/docs/other/dates/">Примеры работы с датами в Oracle</a></li>
+</ul>
 
 
 <br/>
