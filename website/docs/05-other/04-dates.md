@@ -137,5 +137,17 @@ permalink: /docs/other/dates/
     select ADD_MONTHS (trunc (SYSDATE, 'YEAR'), -1 ) +30 FROM DUAL;
 
 
+<br/>
+<strong>Следующий год</strong>
+
+    -- Первый день следующего года
+    select ADD_MONTHS(trunc (SYSDATE, 'YEAR'),12) FROM DUAL;
+
+    -- Последний день следующего года
+    select ADD_MONTHS(trunc (SYSDATE, 'YEAR'),24)-1 FROM DUAL;
+
+<br/>
+<br/>
+
 Нужно будет упростить вычисления, если это возможно.  
 Я писал на лету и сам эти вычисления не использую. Т.е. допускаю, что где-то закрлась ошибка. Если что, поправлю.
