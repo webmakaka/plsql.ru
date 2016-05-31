@@ -9,7 +9,12 @@ permalink: /docs/other/dates/
 
 (Исправления/Уточнения/Добавления принимаются)
 
-    -- Текущий день недели
+
+<br/>
+
+<strong>Текущая неделя</strong>
+
+    -- Сегодня
     select trunc (SYSDATE) from dual;
 
 <br/>
@@ -18,7 +23,11 @@ permalink: /docs/other/dates/
     select trunc (SYSDATE-1) from dual;
 
 <br/>
-<strong>Текущая неделя</strong>
+
+    -- Завтра
+    select trunc (SYSDATE+1) from dual;
+
+<br/>
 
     -- Первый день недели
     select trunc(SYSDATE, 'DAY') from dual;
@@ -100,7 +109,6 @@ permalink: /docs/other/dates/
 
     -- Последний день квартала
     select add_months(trunc(sysdate,'q'),3)-1 from dual;
-
 
 <br/>
 <strong>Прошлый квартал</strong>
