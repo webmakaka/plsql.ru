@@ -4,6 +4,11 @@ title: Примеры работы с датами в Oracle
 permalink: /docs/other/dates/
 ---
 
+
+### Примеры работы с датами в Oracle
+
+(Исправления/Уточнения/Добавления принимаются)
+
     -- Текущий день недели
     select trunc (SYSDATE) from dual;
 
