@@ -7,11 +7,38 @@ permalink: /sitemap/
 
 <div align="center" style="border-width: 4px; padding: 10px; border-style: inset; border-color: green; ">
 
-Если кто захочет разобрать примеры от курса по SQL от специалист, <a href="/docs/practice/spec/sql/">welcome</a>!
+Если кто захочет разобрать примеры от курса по Oracle SQL от специалист, <a href="/docs/practice/spec/sql/">welcome</a>!
 
 <br/>
 
 Материалы можно попробовать скачать в интернете. Инструкции даны в разделе <a href="/docs/beginning/library/">Материалы для изучения SQL и PL/SQL</a>
+
+<br/>
+
+Что в результате вы получите:
+
+<br/><br/>
+
+Научитесь устанавливать сервер Oracle и к нему подключаться!<br/>
+Выполнять запросы в базе данных!<br/>
+
+<br/><br/>
+
+Может быть вы освоите:<br/>
+Работу с github и docker если захотите отправить что-либо на сайт.<br/>
+Работу с linux и средствами виртуализации, такими как VirtualBox.<br/>
+
+<br/><br/>
+
+Задать вопросы, если что можно по почте.<br/>
+
+<img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley mail" border="0" />
+
+<br/>
+<br/>
+
+Или в <a href="http://oracle-dba.ru/chat/">чате</a>
+
 
 </div>
 
