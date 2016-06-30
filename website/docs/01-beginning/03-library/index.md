@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Материалы для изучения PL/SQL
+title: Материалы для изучения SQL и PL/SQL
 permalink: /docs/beginning/library/
 ---
 

@@ -5,8 +5,19 @@ permalink: /sitemap/
 ---
 
 
+<div align="center" style="border-width: 4px; padding: 10px; border-style: inset; border-color: green; ">
 
-<h3>Вводная информация</h3>
+Если кто захочет разобрать примеры от курса по SQL от специалист, <a href="/docs/practice/spec/sql/">welcome</a>!
+
+<br/>
+
+Материалы можно попробовать скачать в интернете. Инструкции даны в разделе <a href="/docs/beginning/library/">Материалы для изучения SQL и PL/SQL</a>
+
+</div>
+
+<br/>
+
+### Вводная информация
 
 <ul>
     <li><a href="/docs/beginning/greetings/">О сайте PLSQL.RU!</a></li>
@@ -22,7 +33,8 @@ permalink: /sitemap/
 
 
 <br/>
-<h3>Подготовка к программированию</h3>
+
+### Подготовка к программированию
 
 <ul>
     <li><a href="/docs/prepare-to-development/oracle-database-installation/">Инсталляция базы данных Oracle</a></li>
@@ -35,7 +47,8 @@ permalink: /sitemap/
 
 
 <br/>
-<h3>SQL</h3>
+
+### SQL
 
 
 <ul>
@@ -57,11 +70,13 @@ permalink: /sitemap/
 
 <ul>
     <li><a href="/docs/other/dates/">Примеры работы с датами в Oracle</a></li>
+    <li><a href="/docs/practice/spec/sql/">Практика</a> (Желающие могут присоединиться)</li>
 </ul>
 
 
 <br/>
-<h3>PL/SQL</h3>
+
+### PL/SQL
 
 
 <ul>
