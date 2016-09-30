@@ -1,5 +1,7 @@
 # plsql.ru
 
+[![Join the chat at https://gitter.im/plsql/Lobby](https://badges.gitter.im/plsql/Lobby.svg)](https://gitter.im/plsql/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Как скопировать и запустить plsql.ru на свой хост с использованием docker контейнера:
 
 Инсталлируете docker, далее:
