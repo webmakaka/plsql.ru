@@ -5,8 +5,22 @@ permalink: /chat/
 ---
 
 
+### Gitter Chat
+
+Заводи github или твиттер аккаунт и кликай на кнопку
+
+[![Join the chat at https://gitter.im/oracle-dba-ru/Lobby](https://badges.gitter.im/oracle-dba-ru/Lobby.svg)](https://gitter.im/oracle-dba-ru/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
+GitHub сейчас должен быть практически у каждого современного разработчика. Насчет админов, то в меньшей степени. Но все же.  
+В отличие от IRC чата, здесь сохраняется история.
+
+
+
 <h3>IRC (Чат)</h3><br/>
 
+
+(В связи с тем, что IRC чат так и не прижился, не буду приглашать новых посетителей. До октября еще поприсутствую и наверное забью на это дело!)
 
 Можно подключиться в браузере:<br/>
 Достаточно просто перейти <a href="http://webchat.freenode.net/?channels=%23oracle-dba">по ссылке</a> и ввести login и capcha.
