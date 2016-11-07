@@ -180,7 +180,7 @@ permalink: /sitemap/
 
     <li><a href="/books/molinaro/retrieving_records/limiting-the-number-of-rows-returneds/">Ограничение числа возвращаемых строк</a></li>
 
-    <li><a href=" /books/molinaro/retrieving_records/returning-n-random-records-from-a-table/">Возвращение n случайных записей таблицы</a></li>
+    <li><a href="/books/molinaro/retrieving_records/returning-n-random-records-from-a-table/">Возвращение n случайных записей таблицы</a></li>
 
     <li><a href="/books/molinaro/retrieving_records/finding-null-values/">Поиск значений NULL (IS NULL)</a></li>
 
