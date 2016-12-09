@@ -97,6 +97,7 @@ permalink: /sitemap/
 
 <ul>
     <li><a href="/docs/other/dates/">Примеры работы с датами в Oracle</a></li>
+    <li><a href="/docs/other/plsql-developer/dates/">Примеры работы с датами в PL/SQL Developer</a></li>
     <li><a href="/docs/practice/spec/sql/">Практика</a> (Желающие могут присоединиться)</li>
 </ul>
 
