@@ -18,7 +18,7 @@ permalink: /docs/other/plsql-developer/dates/
 
 <br/>
 
-Test
+Правой клавишей по коду: --> Test
 
 <br/>
 
