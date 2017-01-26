@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Сумма Прописью
+title: Сумма Прописью PLSQL
 permalink: /docs/other/summa_propis/
 ---
 
-### Сумма Прописью
+# Сумма Прописью PLSQL
 
 
     CREATE OR REPLACE FUNCTION get_sum_str (source IN NUMBER)
