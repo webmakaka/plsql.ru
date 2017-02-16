@@ -15,7 +15,7 @@ permalink: /docs/other/dates/
 Почему я все время забываю эту команду.
 
 
-    TO_DATE('01/10/2016', 'mm/dd/yyyy')
+    select TO_DATE('01/10/2016', 'mm/dd/yyyy') from dual;
 
 <br/>
 
