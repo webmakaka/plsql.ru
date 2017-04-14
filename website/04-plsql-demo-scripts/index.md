@@ -4,16 +4,20 @@ title: Коллекция примеров PL/SQL кода
 permalink: /plsql-demo-scripts/
 ---
 
+
+# Коллекция примеров PL/SQL кода
+
 <br/>
 
 ### [Steven Feuerstein]
 
 Коллекция скриптов от Oracle Architect w/focus on PL/SQL.
 
-https://github.com/plsql/PLSQL-demo-scripts
+https://bitbucket.org/plsql/plsql-demo-scripts
 
 
 <br/>
 
-Пока нет особого желания разбирать коллекции, определять, что важно а что нет.
-Если кто поможет.
+Всевозможные схемы, такие как SCOTT/TIGER, HR/HR и др. можно взят здесь:
+
+http://oracle-dba.ru/scripts/oracle-dba-scripts/
