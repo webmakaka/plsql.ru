@@ -4,8 +4,9 @@ title: SQL*PLUS
 permalink: /docs/prepare-to-development/sqlplus/
 ---
 
-### SQL*PLUS
+# SQL*PLUS
 
+<br/>
 
 Здесь мы с помощью программы  <a href="http://putty.org">putty</a> подключаемся к серверу баз данных Oracle и запускаем утилиту sqlplus.
 

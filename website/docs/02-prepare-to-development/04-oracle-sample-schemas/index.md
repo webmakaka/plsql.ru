@@ -5,7 +5,9 @@ permalink: /docs/prepare-to-development/oracle-sample-schemas/
 ---
 
 
-### Демонстрационные Схемы: SCOTT/TIGER и HR/HR
+# Демонстрационные Схемы: SCOTT/TIGER и HR/HR
+
+<br/>
 
 
 <p>Для изучения своих технологий, Oracle предлагает набор подготовленных схем (таблиц). Для демонстрации примеров, преимущественно используют схемы <a href="http://odba.ru/showthread.php?t=298">SCOTT/TIGER и HR/HR</a>. В данном случае SCOTT - логин пользователя, а TIGER - пароль. (Брюс Скотт – теперь уже бывший сотрудник Oracle, а Тигром звали кота его дочери).</p>

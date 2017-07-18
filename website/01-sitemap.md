@@ -131,6 +131,7 @@ permalink: /sitemap/
 
 <ul>
     <li><a href="/docs/other/interview_questions/">Вопросы на собеседовании</a></li>
+    <li><a href="/docs/other/variables-concat/">Конкатенация переменных в блоке PL/SQL для формирования запроса</a></li>
     <li><a href="/docs/other/summa_propis/">Сумма Прописью</a></li>
     <li><a href="/docs/other/code-formatting/">Примеры оформления кода PL/SQL</a></li>
 </ul>

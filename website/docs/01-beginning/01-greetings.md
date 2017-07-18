@@ -4,7 +4,7 @@ title: О сайте PLSQL.RU!
 permalink: /docs/beginning/greetings/
 ---
 
-### О сайте PLSQL.RU!
+# О сайте PLSQL.RU!
 
 Мы рады Вас приветствовать на нашем сайте!
 Сайт посвящен программированию для баз данных Oracle на языке PL/SQL.

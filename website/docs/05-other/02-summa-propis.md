@@ -6,6 +6,7 @@ permalink: /docs/other/summa_propis/
 
 # Сумма Прописью PLSQL
 
+<br/>
 
     CREATE OR REPLACE FUNCTION get_sum_str (source IN NUMBER)
     RETURN varchar2 is result VARCHAR2(300);

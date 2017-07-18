@@ -6,6 +6,7 @@ permalink: /docs/other/interview_questions/
 
 # Вопросы на собеседовании на позиции PL/SQL программист:
 
+<br/>
 
     -- Что делает эта функция?
     function ХХХХХ(date_from date, date_to date) return number as

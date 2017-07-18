@@ -7,6 +7,7 @@ permalink: /docs/other/plsql-developer/update-data/
 
 # Обновить данные в PL/SQL Developer без блокировки
 
+<br/>
 
 В общем в первой компании, где я работал в должности DBA. Чтобы внести изменение в таблицу, мы делали запрос, заканчивающийся на for update.
 

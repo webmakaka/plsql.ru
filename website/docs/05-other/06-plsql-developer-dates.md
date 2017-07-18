@@ -7,6 +7,7 @@ permalink: /docs/other/plsql-developer/dates/
 
 # Примеры работы с датами в PL/SQL Developer
 
+<br/>
 
     SELECT * FROM NLS_DATABASE_PARAMETERS;
 
