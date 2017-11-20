@@ -5,24 +5,23 @@ permalink: /docs/prepare-to-development/ide_for_plsql_development/
 ---
 
 
+# Среды программирования для языка PL/SQL
 
-### Среды программирования для языка PL/SQL
 
-
-<p>Из сред разработки, можно воспользоваться бесплатным средством <a href="http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html">Oracle SQL Developer</a>.
+<p>Из сред разработки, можно воспользоваться бесплатным средством <a href="http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html" rel="nofollow">Oracle SQL Developer</a>. Я установил на рабочем компьютере Oracle Linux и смог отказаться от PL/SQL developer в пользу этого бесплатного средства. Впрочем, я сейчас больше выполняю запросы, чем что-то программирую на PL/SQL.
 
 <br/><br/>
 
 Среди платных, можно выделить:
 
 <ul>
-
-<li><a href="http://www.allroundautomations.com/plsqldev.html">PL/SQL Developer</a></li>
-<li><a href="http://toadfororacle.com/index.jspa">TOAD</a></li>
-<li>SQL Navigator</li>
-<li><a href="http://www.sqlmaestro.com/products/oracle/maestro/">Oracle Maestro</a></li>
+    <li><a href="http://www.allroundautomations.com/plsqldev.html" rel="nofollow">PL/SQL Developer</a></li>
+    <li><a href="http://toadfororacle.com/index.jspa" rel="nofollow">TOAD</a></li>
+    <li>SQL Navigator (мало кто пользуется)</li>
+    <li><a href="http://www.sqlmaestro.com/products/oracle/maestro/" rel="nofollow">Oracle Maestro (мало кто пользуется)</a></li>
 </ul>
 
+<br />
 
 Версии платных программ доступны для ознакомления. </p>
 

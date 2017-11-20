@@ -66,6 +66,7 @@ permalink: /sitemap/
 <ul>
     <li><a href="/docs/prepare-to-development/oracle-database-installation/">Инсталляция базы данных Oracle</a></li>
     <li><a href="/docs/prepare-to-development/ide_for_plsql_development/">Среды программирования для языка PL/SQL</a></li>
+    <li><a href="/docs/prepare-to-development/team-development/">Инструменты для коллективной разработки на PL/SQL</a></li>
     <li><a href="/docs/prepare-to-development/sqlplus/">SQL*PLUS</a> </li>
     <li><a href="/docs/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a></li>
     <li><a href="/docs/prepare-to-development/database-objects/">Основные объекты базы данных Oracle</a></li>
