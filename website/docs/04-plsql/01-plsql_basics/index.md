@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Основы языка PL/SQL
-permalink: /docs/plsql/plsql_basics/
+permalink: /plsql/plsql_basics/
 ---
 
 ### Основы языка PL/SQL
@@ -19,7 +19,7 @@ permalink: /docs/plsql/plsql_basics/
 
 <br/><br/>
 
-<div align="center"><img src="/website/docs/04-plsql/01-plsql_basics/plsql_blok_01.png" border="0" alt="PL/SQL BLOCK"></div>
+<div align="center"><img src="/website/04-plsql/01-plsql_basics/plsql_blok_01.png" border="0" alt="PL/SQL BLOCK"></div>
 
 <br/><br/>
 
@@ -53,7 +53,7 @@ permalink: /docs/plsql/plsql_basics/
 
 
 <div align="center">
-<img src="/website/docs/04-plsql/01-plsql_basics/plsql_blok_02.png" border="0" alt="PL/SQL BLOCK">
+<img src="/website/04-plsql/01-plsql_basics/plsql_blok_02.png" border="0" alt="PL/SQL BLOCK">
 </div>
 
 

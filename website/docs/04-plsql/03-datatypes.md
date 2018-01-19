@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Типы данных (DATATYPES)
-permalink: /docs/plsql/datatypes/
+permalink: /plsql/datatypes/
 ---
 
 

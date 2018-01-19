@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Простейшая программа на PL/SQL "Hello World"
-permalink: /docs/plsql/hello-world-plsql/
+permalink: /plsql/hello-world-plsql/
 ---
 
 ### Простейшая программа на PL/SQL: "Hello World"
@@ -33,7 +33,7 @@ permalink: /docs/plsql/hello-world-plsql/
 <br/>
 
 <div align = "center">
-<img src="/website/docs/04-plsql/02-hello-world-plsql/putty5.png" border="0" alt="plsql hello world console sample">
+<img src="/website/04-plsql/02-hello-world-plsql/putty5.png" border="0" alt="plsql hello world console sample">
 </div>
 
 
@@ -41,7 +41,7 @@ permalink: /docs/plsql/hello-world-plsql/
 <h3>Простейшая программа в профессиональной среде для разработки PL/SQL Developer</h3>
 
 
-<p><img src="/website/docs/04-plsql/02-hello-world-plsql/plsql_program_01.png" alt="Hello World on PL/SQL" /></p>
+<p><img src="/website/04-plsql/02-hello-world-plsql/plsql_program_01.png" alt="Hello World on PL/SQL" /></p>
 
 
 <br/><br />
@@ -55,4 +55,4 @@ permalink: /docs/plsql/hello-world-plsql/
 <br/><br />
 
 
-<p><img src="/website/docs/04-plsql/02-hello-world-plsql/plsql_program_02.png" alt="Hello World on PL/SQL" /></p>
+<p><img src="/website/04-plsql/02-hello-world-plsql/plsql_program_02.png" alt="Hello World on PL/SQL" /></p>

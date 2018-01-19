@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Циклы (LOOPS)
-permalink: /docs/plsql/loops/
+permalink: /plsql/loops/
 ---
 
 ### Циклы (LOOPS)

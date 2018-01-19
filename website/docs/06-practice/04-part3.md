@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SQL Практическое занятие 3
-permalink: /docs/practice/spec/sql/3/
+permalink: /practice/spec/sql/3/
 ---
 
 ### Практическое занятие 3

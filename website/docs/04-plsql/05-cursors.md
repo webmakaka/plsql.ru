@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Курсоры (Cursors)
-permalink: /docs/plsql/cursors/
+permalink: /plsql/cursors/
 ---
 
 ### Курсоры (Cursors)

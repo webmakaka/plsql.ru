@@ -4,55 +4,19 @@ title: Карта Сайта
 permalink: /sitemap/
 ---
 
-
-<div align="center" style="border-width: 4px; padding: 10px; border-style: inset; border-color: green; ">
-
-Если кто захочет разобрать примеры от курса по Oracle SQL от специалист, <a href="/docs/practice/spec/sql/">welcome</a>!
-
-<br/>
-
-Материалы можно попробовать скачать в интернете. Инструкции даны в разделе <a href="/docs/beginning/library/">Материалы для изучения SQL и PL/SQL</a>
-
-<br/>
-
-Что в результате вы получите:
-
-<br/><br/>
-
-Научитесь устанавливать сервер Oracle и к нему подключаться!<br/>
-Выполнять запросы в базе данных!<br/>
-
-<br/><br/>
-
-Может быть вы освоите:<br/>
-Работу с github и docker если захотите отправить что-либо на сайт.<br/>
-Работу с linux и средствами виртуализации, такими как VirtualBox.<br/>
-
-<br/><br/>
-
-Задать вопросы, если что можно по почте.<br/>
-
-<img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley mail" border="0" />
-
-<br/>
-<br/>
-
-Или в <a href="http://oracle-dba.ru/chat/">чате</a>
-
-
-</div>
+# Карта сайта
 
 <br/>
 
 ### Вводная информация
 
 <ul>
-    <li><a href="/docs/beginning/greetings/">О сайте PLSQL.RU!</a></li>
-    <li><a href="/docs/beginning/intro/">Введение</a></li>
-    <li><a href="/docs/beginning/library/">Материалы для изучения PL/SQL</a></li>
+    <li><a href="/beginning/greetings/">О сайте PLSQL.RU!</a></li>
+    <li><a href="/beginning/intro/">Введение</a></li>
+    <li><a href="/beginning/library/">Материалы для изучения PL/SQL</a></li>
     <li><a href="/webinars/">Вебинары</a></li>
-    <li><a href="/docs/beginning/video-courses/">Видео курсы для изучения PL/SQL (без ссылок на скачивание)</a></li>
-    <li><a href="/docs/beginning/what_needs_to_study_plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
+    <li><a href="/beginning/video-courses/">Видео курсы для изучения PL/SQL (без ссылок на скачивание)</a></li>
+    <li><a href="/beginning/what_needs_to_study_plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
 
 
 </ul>
@@ -64,12 +28,12 @@ permalink: /sitemap/
 ### Подготовка к программированию
 
 <ul>
-    <li><a href="/docs/prepare-to-development/oracle-database-installation/">Инсталляция базы данных Oracle</a></li>
-    <li><a href="/docs/prepare-to-development/ide_for_plsql_development/">Среды программирования для языка PL/SQL</a></li>
-    <li><a href="/docs/prepare-to-development/team-development/">Инструменты для коллективной разработки на PL/SQL</a></li>
-    <li><a href="/docs/prepare-to-development/sqlplus/">SQL*PLUS</a> </li>
-    <li><a href="/docs/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a></li>
-    <li><a href="/docs/prepare-to-development/database-objects/">Основные объекты базы данных Oracle</a></li>
+    <li><a href="/prepare-to-development/oracle-database-installation/">Инсталляция базы данных Oracle</a></li>
+    <li><a href="/prepare-to-development/ide_for_plsql_development/">Среды программирования для языка PL/SQL</a></li>
+    <li><a href="/prepare-to-development/team-development/">Инструменты для коллективной разработки на PL/SQL</a></li>
+    <li><a href="/prepare-to-development/sqlplus/">SQL*PLUS</a> </li>
+    <li><a href="/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a></li>
+    <li><a href="/prepare-to-development/database-objects/">Основные объекты базы данных Oracle</a></li>
 </ul>
 
 
@@ -80,16 +44,16 @@ permalink: /sitemap/
 
 
 <ul>
-    <li><a href="/docs/sql/oracle_sql_basics/">Основы SQL</a></li>
-    <li><a href="/docs/sql/create_table/">Таблицы (TABLES)</a></li>
-    <li><a href="/docs/sql/insert-records-into-table/">Добавить запись в таблицу базы данных Oracle (INSERT)</a></li>
-    <li><a href="/docs/sql/select/">Выборка данных из таблиц базы данных (SELECT)</a></li>
-    <li><a href="/docs/sql/order-by/">Cортировка возвращаемых данных (ORDER BY)</a></li>
-    <li><a href="/docs/sql/where/">Ограничение числа выбираемых данных (WHERE)</a></li>
-    <li><a href="/docs/sql/group_by/">Группировка данных (GROUP BY)</a></li>
-    <li><a href="/docs/sql/having/">Ограничение числа сгруппированных данных (HAVING)</a></li>
-    <li><a href="/docs/sql/join/">Выборка данных из нескольких таблиц (JOIN)</a></li>
-    <li><a href="/docs/sql/outer_join/">Создание внешних соединений (OUTER JOIN)</a></li>
+    <li><a href="/sql/oracle_sql_basics/">Основы SQL</a></li>
+    <li><a href="/sql/create_table/">Таблицы (TABLES)</a></li>
+    <li><a href="/sql/insert-records-into-table/">Добавить запись в таблицу базы данных Oracle (INSERT)</a></li>
+    <li><a href="/sql/select/">Выборка данных из таблиц базы данных (SELECT)</a></li>
+    <li><a href="/sql/order-by/">Cортировка возвращаемых данных (ORDER BY)</a></li>
+    <li><a href="/sql/where/">Ограничение числа выбираемых данных (WHERE)</a></li>
+    <li><a href="/sql/group_by/">Группировка данных (GROUP BY)</a></li>
+    <li><a href="/sql/having/">Ограничение числа сгруппированных данных (HAVING)</a></li>
+    <li><a href="/sql/join/">Выборка данных из нескольких таблиц (JOIN)</a></li>
+    <li><a href="/sql/outer_join/">Создание внешних соединений (OUTER JOIN)</a></li>
 </ul>
 
 
@@ -97,10 +61,10 @@ permalink: /sitemap/
 <h3>SQL Разное</h3>
 
 <ul>
-    <li><a href="/docs/other/dates/">Примеры работы с датами в Oracle</a></li>
-    <li><a href="/docs/other/plsql-developer/dates/">Обновить данные в PL/SQL Developer без блокировки</a></li>
-    <li><a href="/docs/other/plsql-developer/dates/">Примеры работы с датами в PL/SQL Developer</a></li>
-    <li><a href="/docs/practice/spec/sql/">Практика</a> (Желающие могут присоединиться)</li>
+    <li><a href="/other/dates/">Примеры работы с датами в Oracle</a></li>
+    <li><a href="/other/plsql-developer/dates/">Обновить данные в PL/SQL Developer без блокировки</a></li>
+    <li><a href="/other/plsql-developer/dates/">Примеры работы с датами в PL/SQL Developer</a></li>
+    <li><a href="/practice/spec/sql/">Практика</a> (Желающие могут присоединиться)</li>
 </ul>
 
 
@@ -110,18 +74,18 @@ permalink: /sitemap/
 
 
 <ul>
-    <li><a href="/docs/plsql/plsql_basics/">Основы языка PL/SQL</a></li>
-    <li><a href="/docs/plsql/hello-world-plsql/">Простейшая программа на PL/SQL: &quot;Hello World&quot;</a></li>
-    <li><a href="/docs/plsql/datatypes/">Типы данных (DATATYPES)</a></li>
-    <li><a href="/docs/plsql/scalar/">Скалярные типы данных</a></li>
-    <li><a href="/docs/plsql/cursors/">Курсоры (Cursors)</a></li>
-    <li><a href="/docs/plsql/variables/">Переменные (VARIABLES)</a></li>
-    <li><a href="/docs/plsql/if-then-else/">Условная логика (IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE)</a></li>
-    <li><a href="/docs/plsql/loops/">Циклы (LOOPS)</a></li>
-    <li><a href="/docs/plsql/stored-procedures/">Хранимые Процедуры (STORED PROCEDURES)</a></li>
-    <li><a href="/docs/plsql/stored-functions/">Хранимые функции (STORED FUNCTONS)</a></li>
-    <li><a href="/docs/plsql/packages/">Пакеты (PACKAGES)</a></li>
-    <li><a href="/docs/plsql/triggers">Триггеры (TRIGGERS)</a></li>
+    <li><a href="/plsql/plsql_basics/">Основы языка PL/SQL</a></li>
+    <li><a href="/plsql/hello-world-plsql/">Простейшая программа на PL/SQL: &quot;Hello World&quot;</a></li>
+    <li><a href="/plsql/datatypes/">Типы данных (DATATYPES)</a></li>
+    <li><a href="/plsql/scalar/">Скалярные типы данных</a></li>
+    <li><a href="/plsql/cursors/">Курсоры (Cursors)</a></li>
+    <li><a href="/plsql/variables/">Переменные (VARIABLES)</a></li>
+    <li><a href="/plsql/if-then-else/">Условная логика (IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE)</a></li>
+    <li><a href="/plsql/loops/">Циклы (LOOPS)</a></li>
+    <li><a href="/plsql/stored-procedures/">Хранимые Процедуры (STORED PROCEDURES)</a></li>
+    <li><a href="/plsql/stored-functions/">Хранимые функции (STORED FUNCTONS)</a></li>
+    <li><a href="/plsql/packages/">Пакеты (PACKAGES)</a></li>
+    <li><a href="/plsql/triggers">Триггеры (TRIGGERS)</a></li>
 </ul>
 
 
@@ -131,29 +95,16 @@ permalink: /sitemap/
 <h3>PL/SQL Разное</h3>
 
 <ul>
-    <li><a href="/docs/other/interview_questions/">Вопросы на собеседовании</a></li>
-    <li><a href="/docs/other/variables-concat/">Конкатенация переменных в блоке PL/SQL для формирования запроса</a></li>
-    <li><a href="/docs/other/summa_propis/">Сумма Прописью</a></li>
-    <li><a href="/docs/other/code-formatting/">Примеры оформления кода PL/SQL</a></li>
+    <li><a href="/other/interview_questions/">Вопросы на собеседовании</a></li>
+    <li><a href="/other/variables-concat/">Конкатенация переменных в блоке PL/SQL для формирования запроса</a></li>
+    <li><a href="/other/summa_propis/">Сумма Прописью</a></li>
+    <li><a href="/other/code-formatting/">Примеры оформления кода PL/SQL</a></li>
 </ul>
 
 
 
-<br/><br/>
-
-<div style="padding:10px; border:thin solid black;">
-
-<strong color="red">Хотел разобрать (сделать конспект книги)  <a href="http://padaread.com/?book=16696&pg=1">Молинаро Э. - SQL. Сборник рецептов</a></strong>, применительно к базе Oracle. Если найдутся этнузиасты, можно это сделать намного быстрее. Использовать планирую базу данных Oracle 12c. При необходимости, могу создать виртуальную машину Linux и поделиться со всеми кому нужно.
-
-
-Отмечу, что в отличие от программирования на PL/SQL, лично мне намного сложнее создавать 3-х и 4-х этажные SQL запросы и потом их оптимизировать.
-
-
-Буду признателен за рекомендацию подобной книги уже для PL/SQL.
-
-</div>
-
 <br/>
+
 <h3>Молинаро Э. - SQL. Сборник рецептов</h3>
 
 

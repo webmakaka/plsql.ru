@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Инструменты для коллективной разработки на PL/SQL
-permalink: /docs/prepare-to-development/team-development/
+permalink: /prepare-to-development/team-development/
 ---
 
 

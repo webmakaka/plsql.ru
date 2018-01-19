@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Создание внешних соединений (OUTER JOIN)
-permalink: /docs/sql/outer_join/
+permalink: /sql/outer_join/
 ---
 
 ### Создание внешних соединений (OUTER JOIN)

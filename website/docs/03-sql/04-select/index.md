@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Выборка данных из таблиц базы данных (SELECT)
-permalink: /docs/sql/select/
+permalink: /sql/select/
 ---
 
 
@@ -33,7 +33,7 @@ permalink: /docs/sql/select/
 
 
 <div align="center">
-<img src="/website/docs/03-sql/04-select/russian-team.png" border="0" alt="russian team">
+<img src="/website/03-sql/04-select/russian-team.png" border="0" alt="russian team">
 </div>
 
 

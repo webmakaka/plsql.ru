@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Условная логика (IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE)
-permalink: /docs/plsql/if-then-else/
+permalink: /plsql/if-then-else/
 ---
 
 ### Условная логика (IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Обновить данные в PL/SQL Developer без блокировки
-permalink: /docs/other/plsql-developer/update-data/
+permalink: /other/plsql-developer/update-data/
 ---
 
 

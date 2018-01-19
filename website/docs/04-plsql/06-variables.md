@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Переменные (VARIABLES)
-permalink: /docs/plsql/variables/
+permalink: /plsql/variables/
 ---
 
 ### Переменные (VARIABLES)

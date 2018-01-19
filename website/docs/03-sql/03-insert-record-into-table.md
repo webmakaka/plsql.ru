@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Добавить запись в таблицу базы данных Oracle (INSERT)
-permalink: /docs/sql/insert-records-into-table/
+permalink: /sql/insert-records-into-table/
 ---
 
 ### Добавить запись в таблицу базы данных Oracle (INSERT)

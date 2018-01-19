@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Примеры работы с датами в PL/SQL Developer
-permalink: /docs/other/plsql-developer/dates/
+permalink: /other/plsql-developer/dates/
 ---
 
 

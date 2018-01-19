@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Основы SQL
-permalink: /docs/sql/oracle_sql_basics/
+permalink: /sql/oracle_sql_basics/
 ---
 
 ### Основы SQL

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Группировка данных (GROUP BY)
-permalink: /docs/sql/group_by/
+permalink: /sql/group_by/
 ---
 
 

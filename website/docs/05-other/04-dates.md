@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Примеры работы с датами в Oracle
-permalink: /docs/other/dates/
+permalink: /other/dates/
 ---
 
 # Примеры работы с датами в Oracle

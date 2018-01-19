@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ограничение числа выбираемых данных (WHERE)
-permalink: /docs/sql/where/
+permalink: /sql/where/
 ---
 
 

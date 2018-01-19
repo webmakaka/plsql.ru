@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Что необходимо для изучения языка программирования PL/SQL?
-permalink: /docs/beginning/what_needs_to_study_plsql/
+permalink: /beginning/what_needs_to_study_plsql/
 ---
 
 

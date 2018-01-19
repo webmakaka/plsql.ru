@@ -1,7 +1,7 @@
 ---
 layout: page
 title: О сайте PLSQL.RU!
-permalink: /docs/beginning/greetings/
+permalink: /beginning/greetings/
 ---
 
 # О сайте PLSQL.RU!

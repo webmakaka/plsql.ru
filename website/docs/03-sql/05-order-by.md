@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Сортировка возвращаемых данных (ORDER BY)
-permalink: /docs/sql/order-by/
+permalink: /sql/order-by/
 ---
 
 

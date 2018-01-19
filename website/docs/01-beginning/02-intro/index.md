@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Введение
-permalink: /docs/beginning/intro/
+permalink: /beginning/intro/
 ---
 
 
@@ -24,7 +24,7 @@ PL/SQL (Procedure Language) – расширяет стандартный SQL и
 <br/>
 <br/>
 
-<div align="center"><img src="/website/docs/01-beginning/02-intro/plsqlpjp.png" border="0" alt="PL/SQL"></div>
+<div align="center"><img src="/website/01-beginning/02-intro/plsqlpjp.png" border="0" alt="PL/SQL"></div>
 
 <br/>
 <br/>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Скалярные типы данных
-permalink: /docs/plsql/scalar/
+permalink: /plsql/scalar/
 ---
 
 

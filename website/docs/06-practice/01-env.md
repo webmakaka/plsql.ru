@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Практика
-permalink: /docs/practice/spec/sql/env/
+permalink: /practice/spec/sql/env/
 ---
 
     Практическое занятие I Введение

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Примеры оформления кода PL/SQL
-permalink: /docs/other/code-formatting/
+permalink: /other/code-formatting/
 ---
 
 # Примеры оформления кода PL/SQL

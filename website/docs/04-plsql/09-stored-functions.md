@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Хранимые Процедуры (STORED PROCEDURES)
-permalink: /docs/plsql/stored-functions/
+permalink: /plsql/stored-functions/
 ---
 
 ### Хранимые функции (STORED FUNCTIONS)

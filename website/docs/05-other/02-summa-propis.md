@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Сумма Прописью PLSQL
-permalink: /docs/other/summa_propis/
+permalink: /other/summa_propis/
 ---
 
 # Сумма Прописью PLSQL

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Триггеры (TRIGGERS)
-permalink: /docs/plsql/triggers/
+permalink: /plsql/triggers/
 ---
 
 ### Триггеры (TRIGGERS)

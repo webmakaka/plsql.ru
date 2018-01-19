@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ограничение числа сгруппированных данных (HAVING)
-permalink: /docs/sql/having/
+permalink: /sql/having/
 ---
 
 

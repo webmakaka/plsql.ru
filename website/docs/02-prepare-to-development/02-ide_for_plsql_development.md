@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Среды программирования для языка PL/SQL
-permalink: /docs/prepare-to-development/ide_for_plsql_development/
+permalink: /prepare-to-development/ide_for_plsql_development/
 ---
 
 

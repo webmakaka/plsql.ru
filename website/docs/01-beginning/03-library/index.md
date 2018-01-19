@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Материалы для изучения SQL и PL/SQL
-permalink: /docs/beginning/library/
+permalink: /beginning/library/
 ---
 
 # Материалы для изучения PL/SQL:
@@ -20,7 +20,7 @@ permalink: /docs/beginning/library/
 <br/><br/>
 
 <div align="center">
-	<img src="/website/docs/01-beginning/03-library/plsqlbook.jpg" border="0" alt="Oracle SQL Specialist">
+	<img src="/website/01-beginning/03-library/plsqlbook.jpg" border="0" alt="Oracle SQL Specialist">
 </div>
 
 <br/>
@@ -38,7 +38,7 @@ hxxps://rutracker.org/forum/viewtopic.php?t=5211138
 <br/>
 
 <div align="center">
-	<img src="/website/docs/01-beginning/03-library/oracle-sql-plsql.png" border="0" alt="Oracle SQL Specialist">
+	<img src="/website/01-beginning/03-library/oracle-sql-plsql.png" border="0" alt="Oracle SQL Specialist">
 </div>
 
 
@@ -60,7 +60,7 @@ TTH: 1E304EE5F4680F32B5806B5B4EA5B85DD1548831
 <br/><br/>
 
 <div align="center">
-	<img src="/website/docs/01-beginning/03-library/molinaro_sql_recepts.jpg" border="0" alt="Oracle SQL Specialist">
+	<img src="/website/01-beginning/03-library/molinaro_sql_recepts.jpg" border="0" alt="Oracle SQL Specialist">
 </div>
 
 <br/><br/>

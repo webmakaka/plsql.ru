@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Хранимые Процедуры (STORED PROCEDURES)
-permalink: /docs/plsql/stored-procedures/
+permalink: /plsql/stored-procedures/
 ---
 
 ### Хранимые Процедуры (STORED PROCEDURES)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Демонстрационные Схемы SCOTT/TIGER и HR/HR
-permalink: /docs/prepare-to-development/oracle-sample-schemas/
+permalink: /prepare-to-development/oracle-sample-schemas/
 ---
 
 
@@ -72,7 +72,7 @@ permalink: /docs/prepare-to-development/oracle-sample-schemas/
 
 <br/>
 
-    $ wget http://plsql.ru/website/docs/02-prepare-to-development/04-oracle-sample-schemas/hr.sql
+    $ wget http://plsql.ru/website/02-prepare-to-development/04-oracle-sample-schemas/hr.sql
 
 <br/>
 

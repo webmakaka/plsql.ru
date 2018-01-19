@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Основные объекты базы данных Oracle
-permalink: /docs/prepare-to-development/database-objects/
+permalink: /prepare-to-development/database-objects/
 ---
 
 ### Основные объекты базы данных Oracle

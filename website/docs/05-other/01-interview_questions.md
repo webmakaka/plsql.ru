@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Вопросы на собеседовании на позиции PLSQL программист
-permalink: /docs/other/interview_questions/
+permalink: /other/interview_questions/
 ---
 
 # Вопросы на собеседовании на позиции PL/SQL программист:

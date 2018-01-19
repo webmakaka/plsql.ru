@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Пакеты (Packages)
-permalink: /docs/plsql/packages/
+permalink: /plsql/packages/
 ---
 
 ### Пакеты (Packages)

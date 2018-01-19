@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Конкатенация переменных в блоке PL/SQL для формирования запроса
-permalink: /docs/other/variables-concat/
+permalink: /other/variables-concat/
 ---
 
 

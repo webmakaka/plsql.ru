@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Инсталляция базы данных Oracle
-permalink: /docs/prepare-to-development/oracle-database-installation/
+permalink: /prepare-to-development/oracle-database-installation/
 ---
 
 

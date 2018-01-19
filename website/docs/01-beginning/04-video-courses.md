@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Видео курсы для изучения PL/SQL (без ссылок на скачивание)
-permalink: /docs/beginning/video-courses/
+permalink: /beginning/video-courses/
 ---
 
 # Видео курсы для изучения PL/SQL (без ссылок на скачивание)

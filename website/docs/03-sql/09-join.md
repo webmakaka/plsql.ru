@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Выборка данных из нескольких таблиц (JOIN)
-permalink: /docs/sql/join/
+permalink: /sql/join/
 ---
 
 
