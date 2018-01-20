@@ -43,7 +43,11 @@ permalink: /
 
 <br/>
 
-<a href="https://apexapps.oracle.com/pls/apex/f?p=44785:147:101628603859504::NO:::"><img src="//storage6.static.itmages.ru/i/18/0120/h_1516461266_8889961_f002169290.png" alt="Oracle по SQL и PL/SQL" border="0" /></a>
+<div align="center">
+
+    <a href="https://apexapps.oracle.com/pls/apex/f?p=44785:147:101628603859504::NO:::"><img src="//storage6.static.itmages.ru/i/18/0120/h_1516461266_8889961_f002169290.png" alt="Oracle по SQL и PL/SQL" border="0" /></a>
+
+</div>
 
 <br/>
 
