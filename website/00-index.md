@@ -32,7 +32,7 @@ permalink: /
 
 
 <div align="center">
-	<img src="/website/pictures/kritika.jpg" alt="Oracle DBA" border="0" />
+	<img src="//files.plsql.ru/kritika.jpg" alt="Oracle DBA" border="0" />
 </div>
 
 
