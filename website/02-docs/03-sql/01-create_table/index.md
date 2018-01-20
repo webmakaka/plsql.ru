@@ -60,7 +60,7 @@ permalink: /sql/create_table/
 
 
 <div align="center">
-<img src="/website/03-sql/02-create_table/manager-as-manager.png" border="0" alt="manager as manager">
+<img src="//files.plsql.ru/sql/create-table/manager-as-manager.png" border="0" alt="manager as manager">
 </div>
 
 <br/><br/>

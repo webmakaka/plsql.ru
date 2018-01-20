@@ -95,7 +95,7 @@ permalink: /sitemap/
 <h3>PL/SQL Разное</h3>
 
 <ul>
-    <li><a href="/other/interview_questions/">Вопросы на собеседовании</a></li>
+    <li><a href="/other/interview-questions/">Вопросы на собеседовании</a></li>
     <li><a href="/other/variables-concat/">Конкатенация переменных в блоке PL/SQL для формирования запроса</a></li>
     <li><a href="/other/summa_propis/">Сумма Прописью</a></li>
     <li><a href="/other/code-formatting/">Примеры оформления кода PL/SQL</a></li>
