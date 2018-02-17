@@ -8,17 +8,16 @@
 
 Инсталлируете docker, далее:
 
-    docker pull marley/centos6-for-dev
-    docker run -i -t –rm -p 80:8080 –-name oradev marley/centos6-for-dev /bin/bash
+    $ docker pull marley/centos6-for-jekyll:latest
+    $ docker run -i -t -p 80:8080 --name plsql_ru marley/centos6-for-jekyll:latest /bin/bash
 
 <br/>
 
-    source ~/.bash_profile
-    cd /projects
-    git clone --depth=1 https://github.com/plsql/plsql.ru
-    cd plsql.ru
-    gem install jekyll
-    jekyll serve --watch  --host 0.0.0.0 --port 8080
+    $ source ~/.bash_profile
+    $ cd /projects
+    $ git clone --depth=1 https://bitbucket.org/plsql/plsql.ru .
+    $ bundle
+    $ JEKYLL_ENV=production bundle exec jekyll serve --host 0.0.0.0 --port 8080
 
 
 <br/>
