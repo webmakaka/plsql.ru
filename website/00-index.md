@@ -45,7 +45,7 @@ permalink: /
 
 <div align="center">
 
-    <a href="http://plsql.info/video-courses/2018/"><img src="//storage6.static.itmages.ru/i/18/0120/h_1516461266_8889961_f002169290.png" alt="Oracle по SQL и PL/SQL" border="0" /></a>
+    <a href="http://plsql.info/video-courses/2018/"><img src="//files.plsql.ru/mooc-sql-plsql-fundamentals.png" alt="Oracle по SQL и PL/SQL" border="0" /></a>
 
 </div>
 
