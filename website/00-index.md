@@ -14,12 +14,11 @@ permalink: /
 
 Найдете ошибку пишите, исправим!
 
-Исходные коды проекта, хранятся сейчас на bitbucket (github забанил репозиторий без предупреждений) в публичном репо. Можете поделиться своим опытом с другими программистами. (За столь большое время, прочем никто не захотел, чем-либо поделиться). 
+Исходные коды проекта, хранятся сейчас на bitbucket (github забанил репозиторий без предупреждений) в публичном репо. Можете поделиться своим опытом с другими программистами. (За столь большое время, прочем никто не захотел, чем-либо поделиться).
 
-Готов ссылки на резюме помогающих публиковать на сайте. 
+Готов ссылки на резюме помогающих публиковать на сайте.
 
 Люди со схожими интересами, заинтересованные в сотрудничестве присоединяйтесь.
-
 
 Критические замечания применяются на адрес электронной почты.
 
@@ -30,22 +29,19 @@ permalink: /
 
 <a href="https://travis-ci.org/plsql/plsql.ru" rel="nofollow"><img src="https://travis-ci.org/plsql/plsql.ru.svg?branch=gh-pages" alt="oracle dba build status"></a>
 
-
 <div align="center">
 	<img src="//files.plsql.ru/kritika.jpg" alt="Oracle DBA" border="0" />
 </div>
-
 
 <br/>
 
 ### Пара бесплатных курсов от Oracle по SQL и PL/SQL online на английском языке (Вроде уже недоступны, но я скачал)
 
-
 <br/>
 
 <div align="center">
 
-    <a href="http://plsql.info/video-courses/2018/"><img src="//files.plsql.ru/mooc-sql-plsql-fundamentals.png" alt="Oracle по SQL и PL/SQL" border="0" /></a>
+    <a href="https://plsql.org/video-courses/2018/"><img src="//files.plsql.ru/mooc-sql-plsql-fundamentals.png" alt="Oracle по SQL и PL/SQL" border="0" /></a>
 
 </div>
 
