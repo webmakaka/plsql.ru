@@ -25,10 +25,6 @@ permalink: /
 <br/>
 <img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley" border="0" />
 
-<a href="https://gitter.im/oracle-dba-ru/Lobby" rel="nofollow"><img src="https://badges.gitter.im/oracle-dba-ru/Lobby.svg" alt="oracle dba chat room"></a>
-
-<a href="https://travis-ci.org/plsql/plsql.ru" rel="nofollow"><img src="https://travis-ci.org/plsql/plsql.ru.svg?branch=gh-pages" alt="oracle dba build status"></a>
-
 <div align="center">
 	<img src="//files.plsql.ru/kritika.jpg" alt="Oracle DBA" border="0" />
 </div>
