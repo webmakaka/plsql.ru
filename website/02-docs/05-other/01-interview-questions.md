@@ -168,19 +168,19 @@ function ХХХХХ(date_from date, date_to date) return number as
 <br/>
 
 <div align="center">
-	<img src="//files.plsql.ru//img/interview/ph-query1.png" alt="Oracle DBA" border="0" />
+	<img src="//files.plsql.ru//img/interview/ph-query1.png" alt="Oracle SQL Interview questions" border="0" />
 </div>
 
 <br/>
 
 <div align="center">
-	<img src="//files.plsql.ru//img/interview/ph-query2.png" alt="Oracle DBA" border="0" />
+	<img src="//files.plsql.ru//img/interview/ph-query2.png" alt="Oracle SQL Interview questions" border="0" />
 </div>
 
 <br/>
 
 <div align="center">
-	<img src="//files.plsql.ru//img/interview/ph-query3.png" alt="Oracle DBA" border="0" />
+	<img src="//files.plsql.ru//img/interview/ph-query3.png" alt="Oracle SQL Interview questions" border="0" />
 </div>
 
 Наверное, можно сделать лушче!
