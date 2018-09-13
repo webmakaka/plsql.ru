@@ -8,7 +8,6 @@ permalink: /beginning/video-courses/
 
 Тема нужна, чтобы можно было быстро соориентироваться и найти / купить.
 
-
 **Pluralsight:**
 
     Oracle PL/SQL Fundamentals - Part 1
@@ -19,17 +18,11 @@ permalink: /beginning/video-courses/
     Advanced SQL Queries in Oracle and SQL Server
     Oracle Performance Tuning for Developers
 
-
 **Udemy:**
 
     Udemy - PLSQL by Example
     Oracle PL/SQL Fundamentals vol. I & II
 
-
 **infiniteskills:**
 
     Learning Oracle PL/SQL
-
-
-Сколько всего по-хорошему то изучить нужно.
-Если разбирать, то коллективно и на plsql.ino и на английском.
