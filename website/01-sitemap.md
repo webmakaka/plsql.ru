@@ -16,7 +16,7 @@ permalink: /sitemap/
     <li><a href="/beginning/library/">Материалы для изучения PL/SQL</a></li>
     <li><a href="/webinars/">Вебинары</a></li>
     <li><a href="/beginning/video-courses/">Видео курсы для изучения PL/SQL (без ссылок на скачивание)</a></li>
-    <li><a href="/beginning/what_needs_to_study_plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
+    <li><a href="/beginning/what-needed-to-study-plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
 
 
 </ul>
@@ -29,7 +29,7 @@ permalink: /sitemap/
 
 <ul>
     <li><a href="/prepare-to-development/oracle-database-installation/">Инсталляция базы данных Oracle</a></li>
-    <li><a href="/prepare-to-development/ide_for_plsql_development/">Среды программирования для языка PL/SQL</a></li>
+    <li><a href="/prepare-to-development/ide-for-plsql-development/">Среды программирования для языка PL/SQL</a></li>
     <li><a href="/prepare-to-development/team-development/">Инструменты для коллективной разработки на PL/SQL</a></li>
     <li><a href="/prepare-to-development/sqlplus/">SQL*PLUS</a> </li>
     <li><a href="/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a></li>
