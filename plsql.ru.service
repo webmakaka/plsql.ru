@@ -1,0 +1,21 @@
+[Unit]
+Description=plsql.ru
+
+Requires=docker.service
+After=docker.service
+
+[Service]
+
+Restart=always
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill plsql.ru
+ExecStartPre=-/usr/bin/docker rm plsql.ru
+ExecStartPre=-/usr/bin/docker pull marley/plsql.ru:latest
+ExecStart=/bin/sh -c '/usr/bin/docker run --name plsql.ru   \
+ -p 4006:80                        \
+ marley/plsql.ru'
+ExecStop=-/usr/bin/docker kill plsql.ru
+ExecStop=-/usr/bin/docker rm plsql.ru
+
+[Install]
+WantedBy=multi-user.target
