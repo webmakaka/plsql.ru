@@ -3,7 +3,7 @@ title: plsql.ru
 
 description: Программирование на языке PL/SQL для баз данных Oracle
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://plsql.ru" # the base hostname & protocol for your site
+url: "https://plsql.ru" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
