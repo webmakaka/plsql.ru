@@ -25,7 +25,14 @@ permalink: /
 Критические замечания применяются на адрес электронной почты, но лучше пишите в телеграм.
 
 <br/>
-<img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley" border="0" />
+
+**Для контактов:**
+
+email:
+
+![Marley](/img/a3333333mail.gif "Marley")
+
+<br/>
 
 <div align="center">
 	<img src="//files.plsql.ru/kritika.jpg" alt="Oracle DBA" border="0" />
@@ -47,13 +54,13 @@ permalink: /
 
 <br/>
 
-### Пара бесплатных курсов от Oracle по SQL и PL/SQL. Язык Английский.
+### Oracle SQL и PL/SQL от корпорации. Язык Английский.
 
 <br/>
 
 <div align="center">
 
-    <a href="https://plsql.org/video-courses/2018/"><img src="//files.plsql.ru/mooc-sql-plsql-fundamentals.png" alt="Oracle по SQL и PL/SQL" border="0" /></a>
+    <a href="https://plsql.org/video-courses/2018/"><img src="/img/mooc-sql-plsql-fundamentals.png" alt="Oracle SQL и PL/SQL" border="0" /></a>
 
 </div>
 
