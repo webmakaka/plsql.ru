@@ -17,7 +17,7 @@ permalink: /beginning/library/
 <br/><br/>
 
 <div align="center">
-	<img src="//files.plsql.ru/library/plsqlbook.jpg" border="0" alt="Oracle SQL Specialist">
+	<img src="/img/library/plsqlbook.jpg" border="0" alt="Oracle SQL Specialist">
 </div>
 
 <br/>
@@ -28,7 +28,7 @@ permalink: /beginning/library/
 <br/>
 
 <div align="center">
-	<img src="//files.plsql.ru/library/oracle-sql-plsql.png" border="0" alt="Oracle SQL Specialist">
+	<img src="/img/library/oracle-sql-plsql.png" border="0" alt="Oracle SQL Specialist">
 </div>
 
 <br/>
@@ -38,7 +38,7 @@ permalink: /beginning/library/
 <br/><br/>
 
 <div align="center">
-	<img src="//files.plsql.ru/library/molinaro_sql_recepts.jpg" border="0" alt="Молинаро Э. - SQL. Сборник рецептов">
+	<img src="/img/library/molinaro_sql_recepts.jpg" border="0" alt="Молинаро Э. - SQL. Сборник рецептов">
 </div>
 
 <br/><br/>

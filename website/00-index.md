@@ -35,7 +35,7 @@ email:
 <br/>
 
 <div align="center">
-	<img src="//files.plsql.ru/kritika.jpg" alt="Oracle DBA" border="0" />
+	<img src="/img/kritika.jpg" alt="Oracle DBA" border="0" />
 </div>
 
 <br/>

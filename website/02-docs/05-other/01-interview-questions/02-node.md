@@ -130,19 +130,19 @@ permalink: /other/interview-questions/node/
 <br/>
 
 <div align="center">
-	<img src="//files.plsql.ru//img/interview/ph-query1.png" alt="Oracle SQL Interview questions" border="0" />
+	<img src="/img/interview/ph-query1.png" alt="Oracle SQL Interview questions" border="0" />
 </div>
 
 <br/>
 
 <div align="center">
-	<img src="//files.plsql.ru//img/interview/ph-query2.png" alt="Oracle SQL Interview questions" border="0" />
+	<img src="/img/interview/ph-query2.png" alt="Oracle SQL Interview questions" border="0" />
 </div>
 
 <br/>
 
 <div align="center">
-	<img src="//files.plsql.ru//img/interview/ph-query3.png" alt="Oracle SQL Interview questions" border="0" />
+	<img src="/img/interview/ph-query3.png" alt="Oracle SQL Interview questions" border="0" />
 </div>
 
 Наверное, можно сделать лушче!
@@ -153,5 +153,5 @@ permalink: /other/interview-questions/node/
 Есть вопросы которые следует добавить? Можно даже написать в какой компании, что спрашивали.
 
 <div align="left">
-	Обратная связь:  <br/><img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley" border="0" />
+	Обратная связь:  <br/><img src="/img/a3333333mail.gif" alt="Marley" border="0" />
 </div>
