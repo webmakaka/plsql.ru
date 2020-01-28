@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Чат для админов Oracle, SQL, PLSQL разработчиков
+title: Телеграмм группа для админов Oracle, программистов SQL PLSQL
 permalink: /chat/
 ---
 
-# Чат для админов Oracle, тех кто работает с продуктами Oracle и просто интересующихся
+# Телеграмм группа для админов Oracle, программистов SQL и PL/SQL
 
 <br/>
 
 ### Telegram чат
 
-https://t.me/oracledba_net
+https://t.me/oracle_dba_ru
 
 <br/>
 
