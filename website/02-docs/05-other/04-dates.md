@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Примеры работы с датами в Oracle
+description: Примеры работы с датами в Oracle
+keywords: oracle, sql, вычисление дат
 permalink: /other/dates/
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: SQL*PLUS
+description: SQL*PLUS в Oracle
+keywords: oracle, sql, sqlplus
 permalink: /prepare-to-development/sqlplus/
 ---
 
