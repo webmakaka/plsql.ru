@@ -2,12 +2,11 @@
 layout: page
 title: Примеры работы с датами в Oracle
 description: Примеры работы с датами в Oracle
-keywords: oracle, sql, вычисление дат
+keywords: Oracle, sql, вычисление дат
 permalink: /other/dates/
 ---
 
 # Примеры работы с датами в Oracle
-
 
 <br/>
 
@@ -16,17 +15,13 @@ permalink: /other/dates/
 Блин, что же может быть проще?  
 Почему я все время забываю эту команду.
 
-
     select TO_DATE('16/10/2016', 'dd/mm/yyyy') from dual;
 
 <br/>
 
 ### Вычисления текущего дня, месяца и т.д. с помощью SQL
 
-
-
 (Исправления/Уточнения/Добавления принимаются)
-
 
 <br/>
 
@@ -137,7 +132,6 @@ permalink: /other/dates/
     -- Последний день прошлого квартала
     select add_months(trunc(add_months(sysdate,-3),'q'),3)-1 from dual;
 
-
 <br/>
 <strong>Следующий квартал</strong>
 
@@ -146,7 +140,6 @@ permalink: /other/dates/
 
     -- Последний день следующего квартала
     select add_months(trunc(add_months(sysdate,3),'q'),3)-1 from dual;
-
 
 <br/>
 <strong>Текущий год</strong>
@@ -166,7 +159,6 @@ permalink: /other/dates/
 
     -- Последний день прошлого года
     select ADD_MONTHS (trunc (SYSDATE, 'YEAR'), -1 ) +30 FROM DUAL;
-
 
 <br/>
 <strong>Следующий год</strong>

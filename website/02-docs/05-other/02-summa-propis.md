@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Сумма Прописью PLSQL
+description: Сумма Прописью PLSQL
+keywords: PLSQL, Сумма Прописью
 permalink: /other/summa_propis/
 ---
 
@@ -119,7 +121,6 @@ permalink: /other/summa_propis/
     --
       RETURN(result);
     END get_sum_str;
-
 
 <br/>
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Введение
+description: Введение
+keywords: Введение
 permalink: /beginning/intro/
 ---
 

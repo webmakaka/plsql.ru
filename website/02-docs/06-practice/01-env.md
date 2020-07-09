@@ -1,15 +1,19 @@
 ---
 layout: page
-title: Практика
+title: Подготовка к практике
+description: Подготовка к практике
+keywords: Подготовка к практике
 permalink: /practice/spec/sql/env/
 ---
+
+# Подготовка к практике
 
     Практическое занятие I Введение
 
     Запустите ролик «Oracle SQL Developer Demo: Создание соединения с базой данных» и следуйте указаниям ролика
     1.	practice\labs\labs\mod02_cp_newdbconn.htm
     Запуск Oracle SQL Developer
-    2. Запустите Oracle SQL Developer используя  ярлык “sqldeveloper” на рабочем столе.  
+    2. Запустите Oracle SQL Developer используя  ярлык “sqldeveloper” на рабочем столе.
     Примечание: При первом старте SQL Developer может понадобится указать путь к java.exe file.
 
     Например:

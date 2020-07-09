@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Коллекция примеров PL/SQL кода
+description: Коллекция примеров PL/SQL кода
+keywords: Коллекция примеров PL/SQL кода
 permalink: /plsql-demo-scripts/
 ---
 

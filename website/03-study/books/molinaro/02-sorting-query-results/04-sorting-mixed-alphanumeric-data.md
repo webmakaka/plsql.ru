@@ -1,18 +1,16 @@
 ---
 layout: page
 title: Сортировка смешанных буквенно-цифровых данных (TRANSLATE и REPLACE)
+description: Сортировка смешанных буквенно-цифровых данных (TRANSLATE и REPLACE)
+keywords: Сортировка смешанных буквенно-цифровых данных (TRANSLATE и REPLACE)
 permalink: /books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data/
 ---
 
+# Сортировка смешанных буквенно-цифровых данных (TRANSLATE и REPLACE)
 
-### Сортировка смешанных буквенно-цифровых данных (TRANSLATE и REPLACE)
-
-
-
-<h3>Задача</h3>
+### Задача
 
 Требуется сортировать смешанные буквенно-цифровые данные по числовой или символьной части. Рассмотрим следующее представление:
-
 
     create view V
     as
@@ -21,12 +19,9 @@ permalink: /books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data
 
 <br/>
 
-
     select * from V;
 
-
 <br/>
-
 
     DATA
     ----------------------------------------------------
@@ -47,14 +42,11 @@ permalink: /books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data
 
      14 rows selected
 
-
-
 <br/>
 
 <h3>Решение</h3>
 
 Вносим коррективы в строку, подлежащую сортировке,с помощью функции REPLACE (заместить) и TRANSLATE (переместить):
-
 
     /* Сортируем по DEPTNO */
     select data
@@ -63,7 +55,6 @@ permalink: /books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data
              replace(
              translate(data, '0123456789', '##########'), '#', ''), '');
 
-
 <br/>
 
     DATA
@@ -84,7 +75,6 @@ permalink: /books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data
     MARTIN  30
 
      14 rows selected
-
 
 <br/>
 
@@ -94,9 +84,7 @@ permalink: /books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data
     order by replace(
              translate(data, '0123456789', '##########'), '#', '');
 
-
 <br/>
-
 
     DATA
     ----------------------------------------------------
@@ -117,13 +105,10 @@ permalink: /books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data
 
      14 rows selected
 
-
 <br/>
 <h3>Обсуждение</h3>
 
-
 Функция TRANSLATE и REPLACE удаляют из каждой строки числа или символы соответственно, что обеспечивает возможность сортировки по данным одного или другого типа. Значения, переданные в ORDER BY, показаны в результатах следующего запроса.
-
 
     select data
     , replace (data,
@@ -133,9 +118,7 @@ permalink: /books/molinaro/sorting-query-results/sorting-mixed-alphanumeric-data
             translate(data, '0123456789', '##########'), '#', '') chars
     from V;
 
-
 <br/>
-
 
     DATA                                                 NUMS                                                 CHARS
     -------------------

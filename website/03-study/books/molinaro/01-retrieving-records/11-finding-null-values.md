@@ -1,26 +1,24 @@
 ---
 layout: page
 title: Поиск значений NULL (IS NULL)
+description: Поиск значений NULL (IS NULL)
+keywords: Поиск значений NULL (IS NULL)
 permalink: /books/molinaro/retrieving_records/finding-null-values/
 ---
 
-### Поиск значений NULL (IS NULL)
-
+# Поиск значений NULL (IS NULL)
 
 <h3>Задача</h3>
 
 Требуется найти все строки, имеющие в заданном столбце NULL (неопределенное) занчение.
 
-
 <h3>Решение</h3>
 
 Чтобы выяснить, является ли значение NULL, необходимо использовать оператор IS NULL.
 
-
     select e.*
     from emp e
     where comm is null;
-
 
 <br/>
 
@@ -37,11 +35,8 @@ permalink: /books/molinaro/retrieving_records/finding-null-values/
      7902 FORD       ANALYST    7566 03-DEC-81 3000          20
      7934 MILLER     CLERK      7782 23-JAN-82 1300          10
 
-
 <br/>
 <h3>Обсуждение</h3>
-
-
 
 NULL никогда не бывает равен или не равен ни одному значению, даже самому себе, поэтому с момощью операторов = или != нельзя определить, равно ли значение NULL или не равно.Для проверки наличия в строке значения NULL должен использоваться оператор IS NULL.
 

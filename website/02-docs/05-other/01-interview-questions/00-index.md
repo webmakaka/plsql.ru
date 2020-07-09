@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Вопросы на собеседовании
+description: Вопросы на собеседовании
+keywords: Вопросы на собеседовании
 permalink: /other/interview-questions/
 ---
 

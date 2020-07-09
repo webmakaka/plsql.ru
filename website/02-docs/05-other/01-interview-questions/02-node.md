@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Задание для на позицию Node.js разработчика
+description: Задание для на позицию Node.js разработчика
+keywords: Задание для на позицию Node.js разработчика
 permalink: /other/interview-questions/node/
 ---
 

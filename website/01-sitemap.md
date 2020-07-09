@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Карта Сайта
+description: Карта Сайта
+keywords: Карта Сайта
 permalink: /sitemap/
 ---
 
@@ -19,7 +21,6 @@ permalink: /sitemap/
     <li><a href="/beginning/what-needed-to-study-plsql/">Что необходимо для изучения языка программирования PL/SQL?</a></li>
 </ul>
 
-
 <br/>
 
 ### Подготовка к программированию
@@ -32,7 +33,6 @@ permalink: /sitemap/
     <li><a href="/prepare-to-development/oracle-sample-schemas/">Демонстрационные Схемы: SCOTT/TIGER и HR/HR</a></li>
     <li><a href="/prepare-to-development/database-objects/">Основные объекты базы данных Oracle</a></li>
 </ul>
-
 
 <br/>
 
@@ -51,7 +51,6 @@ permalink: /sitemap/
     <li><a href="/sql/outer_join/">Создание внешних соединений (OUTER JOIN)</a></li>
 </ul>
 
-
 <br/>
 <h3>SQL Разное</h3>
 
@@ -62,11 +61,9 @@ permalink: /sitemap/
     <li><a href="/practice/spec/sql/">Практика</a> (Желающие могут присоединиться)</li>
 </ul>
 
-
 <br/>
 
 ### PL/SQL
-
 
 <ul>
     <li><a href="/plsql/plsql_basics/">Основы языка PL/SQL</a></li>
@@ -83,9 +80,6 @@ permalink: /sitemap/
     <li><a href="/plsql/triggers">Триггеры (TRIGGERS)</a></li>
 </ul>
 
-
-
-
 <br/>
 <h3>PL/SQL Разное</h3>
 
@@ -96,18 +90,11 @@ permalink: /sitemap/
     <li><a href="/other/code-formatting/">Примеры оформления кода PL/SQL</a></li>
 </ul>
 
-
-
 <br/>
 
 <h3>Молинаро Э. - SQL. Сборник рецептов</h3>
 
-
-
 <a href="/books/molinaro/prepare-environment/">Подготовка окружения</a>
-
-
-
 
 <h4><a href="/books/molinaro/retrieving_records/">Извлечение записей</a></h4>
 
@@ -137,10 +124,11 @@ permalink: /sitemap/
     <li><a href="/books/molinaro/retrieving_records/transforming-nulls-into-real-values/">Преобразование значений NULL в не-NULL значения (COALESCE)</a></li>
 
     <li><a href="/books/molinaro/retrieving_records/searching-for-patterns/">Поиск по шаблону (LIKE)</a></li>
+
 </ul>
 
-
 <br/><br/>
+
 <h4><a href="/books/molinaro/sorting-query-results/">Сортировка результатов запроса</a></h4>
 
 <ul>
@@ -155,11 +143,10 @@ permalink: /sitemap/
 
 </ul>
 
-
 <br/><br/>
+
 <hr/>
 <br/><br/>
-
 
 <div style="padding:10px; border:thin solid black;">
 
@@ -177,7 +164,6 @@ permalink: /sitemap/
 При желании, сделав pull request и после его approve, все кто развернул сайт у себя,
 могут одной командой получить все текущие обновления, а так как сайт построен по сути
 на обычном HTML, любой технический специалист, способен разобраться.
-
 
 <h3>Зачем мне это нужно, как это поможет моей карьере?</h3>
 
@@ -197,7 +183,6 @@ permalink: /sitemap/
 
 <br/>
 Какие-то материалы с закрытых конференций, корпоративных семинаров и д.р. (Чего только нет у уволившихся сотрудников. :)))
-
 
 </div>
 

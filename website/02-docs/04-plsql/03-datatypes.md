@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Типы данных (DATATYPES)
+description: Типы данных (DATATYPES)
+keywords: Типы данных, DATATYPES
 permalink: /plsql/datatypes/
 ---
 
-
 # Типы данных (DATATYPES)
-
 
 Все переменные PL/SQL имеют тип данных, определяющий формат хранения, ограничения и диапазон допустимых значения.<br/><br/>
 PL/SQL поддерживает 4 категорий типов данных:<br/><br/>

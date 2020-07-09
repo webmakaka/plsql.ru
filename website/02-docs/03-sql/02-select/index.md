@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Выборка данных из таблиц базы данных (SELECT)
+description: Выборка данных из таблиц базы данных (SELECT)
+keywords: Выборка данных из таблиц базы данных, SELECT
 permalink: /sql/select/
 ---
 

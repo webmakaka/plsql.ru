@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Группировка данных (GROUP BY)
+description: Группировка данных (GROUP BY)
+keywords: Группировка данных, GROUP BY
 permalink: /sql/group_by/
 ---
 
 # Группировка данных (GROUP BY)
-
 
 Иногда необходимо сгруппировать выходные данные оператора SELECT
 
@@ -15,7 +16,6 @@ permalink: /sql/group_by/
     FROM russian_team;
 
 <br/><br/>
-
 
 <TABLE BORDER="1">
 <TR><TH>&#1060;&#1048;&#1054;</TH><TH>&#1055;&#1086;&#1079;&#1080;&#1094;&#1080;&#1103;</TH><TH>&#1050;&#1083;&#1091;&#1073;</TH></TR>
@@ -37,11 +37,9 @@ permalink: /sql/group_by/
 
 <br/><br/>
 
-
     SELECT  position AS "Позиция", COUNT(position)
     FROM russian_team
     GROUP BY position;
-
 
 <br/><br/>
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Вебинары
+description: Вебинары
+keywords: Oracle, Вебинары
 permalink: /webinars/
 ---
 

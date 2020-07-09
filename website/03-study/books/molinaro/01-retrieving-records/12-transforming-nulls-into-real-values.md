@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Преобразование значений NULL в не-NULL значения (COALESCE)
+description: Преобразование значений NULL в не-NULL значения (COALESCE)
+keywords: Преобразование значений NULL в не-NULL значения (COALESCE)
 permalink: /books/molinaro/retrieving_records/transforming-nulls-into-real-values/
 ---
 
-### Преобразование значений NULL в не-NULL значения (COALESCE)
+# Преобразование значений NULL в не-NULL значения (COALESCE)
 
-<h3>Задача</h3>
+### Задача
 
 Имеются строки, содержащие NULL значения, и требуется возвратить не-NULL значения вместо имеющихся NULL.
 
@@ -17,9 +19,7 @@ permalink: /books/molinaro/retrieving_records/transforming-nulls-into-real-value
     select coalesce(e.comm,0)
     from emp e
 
-
 <br/>
-
 
     COALESCE(E.COMM,0)
     ------------------
@@ -39,7 +39,6 @@ permalink: /books/molinaro/retrieving_records/transforming-nulls-into-real-value
                      0
 
      14 rows selected
-
 
 <br/>
 <h3>Обсуждение</h3>

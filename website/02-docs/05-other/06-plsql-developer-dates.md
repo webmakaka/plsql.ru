@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Примеры работы с датами в PL/SQL Developer
+description: Примеры работы с датами в PL/SQL Developer
+keywords: PL/SQL, работа с датами
 permalink: /other/plsql-developer/dates/
 ---
 

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Основные объекты базы данных Oracle
+description: Основные объекты базы данных Oracle
+keywords: Основные объекты базы данных Oracle
 permalink: /prepare-to-development/database-objects/
 ---
 
 # Основные объекты базы данных Oracle
-
 
 <br/>
 

@@ -1,17 +1,19 @@
 ---
 layout: page
 title: Ограничение числа сгруппированных данных (HAVING)
+description: Ограничение числа сгруппированных данных (HAVING)
+keywords: Ограничение числа сгруппированных данных, HAVING
 permalink: /sql/having/
 ---
 
 # Ограничение числа сгруппированных данных (HAVING)
 
-
-    SELECT  club AS "Клуб", COUNT(position)
-    FROM russian_team
-    GROUP BY club
-    ORDER BY COUNT(position) DESC;
-
+```
+SELECT  club AS "Клуб", COUNT(position)
+FROM russian_team
+GROUP BY club
+ORDER BY COUNT(position) DESC;
+```
 
 <br/><br/>
 
@@ -32,16 +34,13 @@ permalink: /sql/having/
 После того, как данные сгруппированы с помощью фразы GROUP BY, иногда бывает полезно отфильтровать нежелательные данные.
 <br/><br/>
 
-
     SELECT  club AS "Клуб", COUNT(position)
     FROM russian_team
     GROUP BY club
     HAVING COUNT(position) >= 2
     ORDER BY COUNT(position) DESC;
 
-
 <br/><br/>
-
 
 <TABLE BORDER="1">
 <TR><TH>&#1050;&#1083;&#1091;&#1073;</TH><TH>COUNT(POSITION)</TH></TR>

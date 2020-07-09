@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Хранимые Процедуры (STORED PROCEDURES)
+description: Хранимые Процедуры (STORED PROCEDURES)
+keywords: Хранимые Процедуры, STORED PROCEDURES
 permalink: /plsql/stored-procedures/
 ---
 
 # Хранимые Процедуры (STORED PROCEDURES)
 
-
 <br/>
 
 ### Прототип хранимой процедуры
-
 
     CREATE [OR REPLACE]  PROCEDURE procedure_name
     [( parameter1     [IN][OUT] [NOCOPY] sql_datatype | plsql_datatype
@@ -25,18 +25,13 @@ permalink: /plsql/stored-procedures/
     END [procedure_name];
     /
 
-
-
 <br/>
 
 ### Создание процедуры
 
-
 Для создания процедуры используется оператор CREATE PROCEDURE.
 
-
 Упрощенный синтаксис оператора CREATE PROCEDURE выглядит следующим образом.
-
 
     CREATE [OR REPLACE] PROCEDURE procedure_name
     [(имя_параметра [IN | OUT | IN OUT] тип [, …])]
@@ -45,13 +40,9 @@ permalink: /plsql/stored-procedures/
     тело процедуры
     END имя_процедуры
 
-
 OR REPLACE – если процедура с таким же именем уже хранится в базе данных, то с данным параметром, она просто заменит существующую. Без этого параметра, если процедура с данным именем уже существует, появится сообщение об ошибке.
 
-
 IN \| OUT \| IN OUT – специфицирует режим параметров. Для каждого параметра можно выбрать один из следующих режимов:
-
-
 
 <ul>
 <li>
@@ -68,23 +59,17 @@ AUTHID  - определяет, с какими правами будет исп
 </li>
 </ul>
 
-
-
 <br/>
 
 ### Вызов процедуры
-
 
 Для вызова процедуры испоьзуется оператор CALL
 
     CALL  procedure_name ([( parameter1 , [parameter(n+1)]]);
 
-
-
 <br/>
 
 ### Получение информации о процедурах
-
 
 Получить информацию о процедурах можно из представления user_procedures.
 
@@ -94,13 +79,9 @@ AUTHID  - определяет, с какими правами будет исп
     FROM user_procedures
     WHERE objectt_name='procedure_name';
 
-
-
-
 <br/>
 
 ### Удаление процедуры
-
 
     DROP PROCEDURE procedure_name;
 

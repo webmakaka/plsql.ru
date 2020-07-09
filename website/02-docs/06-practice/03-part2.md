@@ -1,22 +1,22 @@
 ---
 layout: page
 title: SQL Практическое занятие 2
+description: SQL Практическое занятие 2
+keywords: SQL Практическое занятие 2
 permalink: /practice/spec/sql/2/
 ---
 
-### Практическое занятие 2
+# Практическое занятие 2
 
 **Отделу HR необходима помощь в создании некоторых запросов**
 
-
-1\. Вследствие проблем финансирования отделу HR необходим отчет, в котором показываются фамилии и оклады служащих, получающих более $12,000.
+1\. Вследствие проблем финансирования отделу HR необходим отчет, в котором показываются фамилии и оклады служащих, получающих более \$12,000.
 
     SELECT last_name, salary
     FROM employees
     WHERE salary > 12000;
 
 <br/>
-
 
     LAST_NAME                     SALARY
     ------------------------- ----------
@@ -36,22 +36,17 @@ permalink: /practice/spec/sql/2/
 
 Создайте запрос для вывода фамилии и номера отдела служащего под номером 176
 
-
     SELECT last_name, department_id
     FROM employees
     WHERE employee_id = 176;
 
 <br/>
 
-
     LAST_NAME                 DEPARTMENT_ID
     ------------------------- -------------
     Taylor                               80
 
-
-
 Отделу HR необходимы данные о высокооплачиваемых и низкооплачиваемых сотрудниках. Выведите фамилии и оклады всех служащих, чей оклад не входит в диапазон от $5000 до $12000.
-
 
     SELECT last_name, salary
     FROM employees
@@ -59,7 +54,7 @@ permalink: /practice/spec/sql/2/
     salary < 5000
     or salary > 21000;
 
-<br/>    
+<br/>
 
     LAST_NAME                     SALARY
     ------------------------- ----------
@@ -117,11 +112,9 @@ permalink: /practice/spec/sql/2/
 
      51 rows selected
 
-
-<br/>  
+<br/>
 
 Создайте отчет для вывода фамилии, идентификатора должности и даты начала работы всех служащих, с фамилиями Matos и Taylor. Отсортируйте данные в порядке возрастания даты найма.
-
 
     SELECT last_name, job_id, hire_date
     FROM employees
@@ -130,18 +123,15 @@ permalink: /practice/spec/sql/2/
 
 <br/>
 
-
-    LAST_NAME                 JOB_ID     HIRE_DATE                     
+    LAST_NAME                 JOB_ID     HIRE_DATE
     ------------------------- ---------- -------------------------------
-    Taylor                    SH_CLERK   24-JAN-06                      
-    Matos                     ST_CLERK   15-MAR-06                      
-    Taylor                    SA_REP     24-MAR-06        
-
+    Taylor                    SH_CLERK   24-JAN-06
+    Matos                     ST_CLERK   15-MAR-06
+    Taylor                    SA_REP     24-MAR-06
 
 <br/>
 
 Выведите фамилию и номер отдела всех служащих из отделов 20 и 50. Отсортируйте данные по фамилиям в алфавитном порядке.
-
 
     SELECT last_name, department_id
     FROM employees
@@ -149,7 +139,6 @@ permalink: /practice/spec/sql/2/
     ORDER BY last_name;
 
 <br/>
-
 
     LAST_NAME                 DEPARTMENT_ID
     ------------------------- -------------
@@ -203,11 +192,9 @@ permalink: /practice/spec/sql/2/
 
      47 rows selected
 
-
 <br/>
 
 Вывести фамилии и оклады служащих отделов 20 и 50, зарабатывающих от $5000 до $12,000. Назовите столбцы Employee и Monthly Salary, соответственно.
-
 
 <br/>
 
@@ -216,7 +203,6 @@ permalink: /practice/spec/sql/2/
     WHERE 1=1
         and department_id in (20, 50)
         and (salary >= 5000 and salary <= 12000);
-
 
 <br/>
 
@@ -231,7 +217,6 @@ permalink: /practice/spec/sql/2/
 
      6 rows selected
 
-
 Отделу HR необходим отчет, в котором выводятся фамилии и даты найма всех служащих, нанятых в 2004 г
 
     SELECT last_name, hire_date
@@ -242,18 +227,18 @@ permalink: /practice/spec/sql/2/
 
 <br/>
 
-    LAST_NAME                 HIRE_DATE                     
+    LAST_NAME                 HIRE_DATE
     ------------------------- -------------------------------
-    Weissgbgg                 18-JUL-04                      
-    Mallin                    14-JUN-04                      
-    Russell                   01-OCT-04                      
-    King                      30-JAN-04                      
-    Sully                     04-MAR-04                      
-    McEwen                    01-AUG-04                      
-    Abel                      11-MAY-04                      
-    Sarchand                  27-JAN-04                      
-    Bell                      04-FEB-04                      
-    Hartstein                 17-FEB-04                      
+    Weissgbgg                 18-JUL-04
+    Mallin                    14-JUN-04
+    Russell                   01-OCT-04
+    King                      30-JAN-04
+    Sully                     04-MAR-04
+    McEwen                    01-AUG-04
+    Abel                      11-MAY-04
+    Sarchand                  27-JAN-04
+    Bell                      04-FEB-04
+    Hartstein                 17-FEB-04
 
      10 rows selected
 
@@ -267,15 +252,13 @@ permalink: /practice/spec/sql/2/
 
 <br/>
 
-    LAST_NAME                 JOB_ID   
+    LAST_NAME                 JOB_ID
     ------------------------- ----------
-    King                      AD_PRES   
-
+    King                      AD_PRES
 
 <br/>
 
 Создайте отчет для вывода фамилий, окладов и комиссионные всех служащих, зарабатывающих комиссионные. Отсортируйте данные в порядке убывания окладов и комиссионных.
-
 
     SELECT last_name, salary, COMMISSION_PCT
     FROM employees
@@ -324,7 +307,6 @@ permalink: /practice/spec/sql/2/
 
      35 rows selected
 
-
 <br/>
 
 Сотрудникам отдела HR требуются запросы с более гибкими возможностями. Так необходим отчет, в котором показываются фамилии и оклады служащих, зарабатывающих больше некоторой величины, вводимой пользователем после приглашения. (Можете изменить запрос, созданный при выполнении задания 1.) Запишите запрос в файл lab_02_10.sql. Ниже приводятся результаты, которые получаются, когда после приглашения вводится 12000
@@ -335,11 +317,9 @@ permalink: /practice/spec/sql/2/
 
     Впадлу делать такие запросы. Реально мне никогда такого рода функционал не был нужен.
 
-
 <br/>
 
 Выведите все фамилии служащих, в которых третья буква – a
-
 
     SELECT last_name
     FROM employees
@@ -347,16 +327,15 @@ permalink: /practice/spec/sql/2/
 
 <br/>
 
-    LAST_NAME               
+    LAST_NAME
     -------------------------
-    Grant                    
-    Grant                    
-    Whalen  
+    Grant
+    Grant
+    Whalen
 
 <br/>
 
 Выведите все фамилии служащих, в которых есть буквы “a” и “e”.
-
 
     SELECT last_name
     FROM employees
@@ -364,97 +343,96 @@ permalink: /practice/spec/sql/2/
 
 <br/>
 
-    LAST_NAME               
+    LAST_NAME
     -------------------------
-    Abel                     
-    Ande                     
-    Baer                     
-    Baida                    
-    Banda                    
-    Bates                    
-    Bell                     
-    Bernstein                
-    Cabrio                   
-    Cambrault                
-    Cambrault                
-    Chen                     
-    Colmenares               
-    Davies                   
-    De Haan                  
-    Dellinger                
-    Doran                    
-    Errazuriz                
-    Everett                  
-    Faviet                   
-    Fay                      
-    Feeney                   
-    Fleaur                   
-    Gates                    
-    Gee                      
-    Geoni                    
-    Gietz                    
-    Grant                    
-    Grant                    
-    Greenberg                
-    Greene                   
-    Hall                     
-    Hartstein                
-    Jones                    
-    Kaufling                 
-    Kochhar                  
-    Kumar                    
-    Ladwig                   
-    Landry                   
-    Lee                      
-    Lorentz                  
-    Mallin                   
-    Markle                   
-    Marlow                   
-    Marvins                  
-    Matos                    
-    Mavris                   
-    McCain                   
-    McEwen                   
-    Mikkilineni              
-    Nayer                    
-    OConnell                 
-    Olsen                    
-    Ozer                     
-    Partners                 
-    Pataballa                
-    Patel                    
-    Perkins                  
-    Philtanker               
-    Rajs                     
-    Raphaely                 
-    Rogers                   
-    Russell                  
-    Sarchand                 
-    Sciarra                  
-    Seo                      
-    Sewall                   
-    Stiles                   
-    Sullivan                 
-    Taylor                   
-    Taylor                   
-    Tobias                   
-    Tucker                   
-    Tuvault                  
-    Urman                    
-    Vargas                   
-    Vishney                  
-    Vollman                  
-    Walsh                    
-    Weissgbgg                
-    Whalen                   
-    Zlotkey                  
+    Abel
+    Ande
+    Baer
+    Baida
+    Banda
+    Bates
+    Bell
+    Bernstein
+    Cabrio
+    Cambrault
+    Cambrault
+    Chen
+    Colmenares
+    Davies
+    De Haan
+    Dellinger
+    Doran
+    Errazuriz
+    Everett
+    Faviet
+    Fay
+    Feeney
+    Fleaur
+    Gates
+    Gee
+    Geoni
+    Gietz
+    Grant
+    Grant
+    Greenberg
+    Greene
+    Hall
+    Hartstein
+    Jones
+    Kaufling
+    Kochhar
+    Kumar
+    Ladwig
+    Landry
+    Lee
+    Lorentz
+    Mallin
+    Markle
+    Marlow
+    Marvins
+    Matos
+    Mavris
+    McCain
+    McEwen
+    Mikkilineni
+    Nayer
+    OConnell
+    Olsen
+    Ozer
+    Partners
+    Pataballa
+    Patel
+    Perkins
+    Philtanker
+    Rajs
+    Raphaely
+    Rogers
+    Russell
+    Sarchand
+    Sciarra
+    Seo
+    Sewall
+    Stiles
+    Sullivan
+    Taylor
+    Taylor
+    Tobias
+    Tucker
+    Tuvault
+    Urman
+    Vargas
+    Vishney
+    Vollman
+    Walsh
+    Weissgbgg
+    Whalen
+    Zlotkey
 
      82 rows selected
 
-
 <br/>
 
-Запросите фамилии, должности и оклады всех служащих, работающих торговыми представителя (SA_REP) или клерками на складе (ST_CLERK), у которых оклад не может быть равен $2500,  $3500 или $7000.
+Запросите фамилии, должности и оклады всех служащих, работающих торговыми представителя (SA_REP) или клерками на складе (ST_CLERK), у которых оклад не может быть равен $2500,  $3500 или \$7000.
 
 <br/>
 

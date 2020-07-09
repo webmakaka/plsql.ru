@@ -1,18 +1,16 @@
 ---
 layout: page
 title: Условная логика (IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE)
+description: Условная логика (IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE)
+keywords: IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE
 permalink: /plsql/if-then-else/
 ---
 
 # Условная логика (IF, IF-THEN-ELSE, IF-THEN-ELSIF-THEN-ELSE)
 
-
-
 В PL/SQL для выполнения условий логики можно использовать ключевые слова IF, THEN, ELSE, ESEIF и END IF
 
-
 ### Прототип IF
-
 
     IF [NOT] left_operand1 = right_operand1 [[AND|OR]
        [NOT] left_operand2 = right_operand2 [[AND|OR]
@@ -21,8 +19,6 @@ permalink: /plsql/if-then-else/
     ELSE
       NULL;
     END IF;
-
-
 
 ### Прототип If-then-else
 
@@ -33,9 +29,7 @@ permalink: /plsql/if-then-else/
         false_execution_block;]
     END IF;
 
-
 ### Прототип If-then-elsif-then-else
-
 
      IF    [NOT] {comparison_expression | boolean_value} [[AND | OR]
                  {comparison_expression | boolean_value}] THEN
@@ -47,7 +41,6 @@ permalink: /plsql/if-then-else/
       all_false_execution_block;]
      END IF;
 
-
 <strong>Пример:</strong>
 
     IF условаие1 THEN
@@ -57,7 +50,6 @@ permalink: /plsql/if-then-else/
     ELSE
     операторы3
     END IF;
-
 
 <ul>
 <li>условие 1 и условие 2 являются булевыми (логическими выражениями, принимающими значения true (истина) и false (ложь)</li>

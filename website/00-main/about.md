@@ -1,6 +1,8 @@
 ---
 layout: page
 title: О админе / сайте
+description: О админе сайте
+keywords: О сайте
 permalink: /about/
 ---
 

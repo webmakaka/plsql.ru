@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Хранимые Процедуры (STORED PROCEDURES)
+title: Хранимые функции (STORED FUNCTIONS)
+description: Хранимые функции (STORED FUNCTIONS)
+keywords: Хранимые функции, STORED FUNCTIONS
 permalink: /plsql/stored-functions/
 ---
 
 # Хранимые функции (STORED FUNCTIONS)
 
-
 <br/>
 
 ### Прототип хранимой функции
-
 
     CREATE [OR REPLACE] FUNCTION function_name
     [( parameter1     [IN][OUT] [NOCOPY] sql_datatype | plsql_datatype
@@ -30,17 +30,13 @@ permalink: /plsql/stored-functions/
     END [function_name];
     /
 
-
-
 Функция подобна процедуре за тем лишь исключением, что функция должна возвращать значение в ту точку, в которой она вызывается.
 
 <br>
 
 ### Создание функции
 
-
 Для создания функции используется оператор CREATE FUNCTION. Упрощенный синтаксис синтаксис имеет следующий вид:
-
 
     CREATE [OR REPLACE] FUNCTION function_name
     [(parameter [IN | OUT | IN OUT] тип [, …])]
@@ -51,7 +47,6 @@ permalink: /plsql/stored-functions/
     RETURN variable;
 
     END function_name;
-
 
 <ul>
 <li>

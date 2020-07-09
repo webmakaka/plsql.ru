@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Материалы для изучения SQL и PL/SQL
+description: Материалы для изучения SQL и PL/SQL
+keywords: Материалы для изучения SQL и PL/SQL
 permalink: /beginning/library/
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: О сайте PLSQL.RU!
+description: О сайте PLSQL.RU!
+keywords: О сайте PLSQL.RU!
 permalink: /beginning/greetings/
 ---
 

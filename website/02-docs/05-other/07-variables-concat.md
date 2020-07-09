@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Конкатенация переменных в блоке PL/SQL для формирования запроса
+description: Конкатенация переменных в блоке PL/SQL для формирования запроса
+keywords: Конкатенация переменных в блоке PL/SQL для формирования запроса
 permalink: /other/variables-concat/
 ---
-
 
 # Конкатенация переменных в блоке PL/SQL для формирования запроса
 
@@ -13,16 +14,14 @@ permalink: /other/variables-concat/
 
     SELECT SYS_CONTEXT ('SEC_CTX', 'user_id') INTO L_LOGGED_IN_USER FROM DUAL;
 
-
 <br/>
-
 
     L_RES := '(select my_value ' ||
            'from my_tables ' ||
-           'where any_condition ' ||  
+           'where any_condition ' ||
 
            -- Явно задаю значение, чтобы пришло в запрос 'pertov'
-           -- 'and login = ' || '''pertov''' || ')';  
+           -- 'and login = ' || '''pertov''' || ')';
 
            -- Переменную определенную в коде
            -- 'and login = ''' || L_LOGGED_IN_USER2 || ''')';

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Если кто захочет присоединиться и добавить свои знания на сайт
+description: Если кто захочет присоединиться и добавить свои знания на сайт
+keywords: добавить свои знания на сайт
 permalink: /info/how-to-add-information-on-site/
 ---
 

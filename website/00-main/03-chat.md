@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Телеграмм группа для админов Oracle, программистов SQL PLSQL
+description: telegram chat
+keywords: telegram chat
 permalink: /chat/
 ---
 
@@ -8,20 +10,13 @@ permalink: /chat/
 
 <br/>
 
-### Telegram чат
-
+**Oracle DBAs Group (RUS)**  
 https://t.me/oracle_dba_ru
 
 <br/>
 
-### Gitter чат
-
-Для входа в Gitter чат требуется github или твиттер аккаунт. Так решили создатели чата.  
-Чтобы войти достаточно кликнуть на картинку и следовать инструкциям по авторизации.
-
-<br/>
-
-[![Join the chat at https://gitter.im/oracle-dba-ru/Lobby](https://badges.gitter.im/oracle-dba-ru/Lobby.svg)](https://gitter.im/oracle-dba-ru/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+**Oracle DBAs Group (ENG)**  
+https://t.me/oracledba_net
 
 <br/>
 

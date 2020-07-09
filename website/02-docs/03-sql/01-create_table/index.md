@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Таблицы (TABLES)
+description: Таблицы (TABLES)
+keywords: Таблицы, TABLES
 permalink: /sql/create_table/
 ---
 

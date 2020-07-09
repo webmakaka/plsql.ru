@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Демонстрационные Схемы SCOTT/TIGER и HR/HR
+description: Демонстрационные Схемы SCOTT/TIGER и HR/HR
+keywords: Демонстрационные Схемы, SCOTT/TIGER, HR/HR
 permalink: /prepare-to-development/oracle-sample-schemas/
 ---
 

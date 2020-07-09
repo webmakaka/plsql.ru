@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Практика
+description: Практика
+keywords: Практика
 permalink: /practice/spec/sql/
 ---
 
-### Практика
+# Практика
 
 <ul>
     <li><a href="/practice/spec/sql/env/">Подготовка</a></li>

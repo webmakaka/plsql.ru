@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Вопросы на собеседовании на позиции PLSQL программист
+title: Вопросы на собеседовании на позиции PL/SQL программист
+description: Вопросы на собеседовании на позиции PL/SQL программист
+keywords: Вопросы на собеседовании, PL/SQL программист
 permalink: /other/interview-questions/plsql/
 ---
 

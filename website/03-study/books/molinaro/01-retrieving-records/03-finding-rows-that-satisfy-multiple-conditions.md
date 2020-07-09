@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Выбор строк по нескольким условиям
+description: Выбор строк по нескольким условиям
+keywords: Выбор строк по нескольким условиям
 permalink: /books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple-conditions/
 ---
 
-
-### Выбор строк по нескольким условиям
-
-
+# Выбор строк по нескольким условиям
 
 <h3>Задача</h3>
 
@@ -16,8 +15,7 @@ permalink: /books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple
 <h3>Решение</h3>
 
 Используйте предикат WHERE в сочетании с операторами OR и AND.
-Например, по следующему запросу будут выбран все служащие 10-го отдела, а также служащие, получающие комиссионные, и служащие 20 отдела, зарабатывающие не более $2000:
-
+Например, по следующему запросу будут выбран все служащие 10-го отдела, а также служащие, получающие комиссионные, и служащие 20 отдела, зарабатывающие не более \$2000:
 
     select e.*
     from emp e
@@ -25,8 +23,6 @@ permalink: /books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple
     and e.deptno = 10
     or e.comm is not null
     or e.sal <= 2000 and e.deptno = 20;
-
-
 
 <br/>
 
@@ -44,15 +40,12 @@ permalink: /books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple
 
      9 rows selected
 
-
 Конструкция 1=1 и перенос кода на новую строку с добавлением and используется для того, чтобы быстро можно было закомментировать
 следующий за этим выражением критерий выборки, и таким образом, чтобы он не учавствовал в запросе.
 
 <h3>Обсуждение</h3>
 
 Чтобы выбрать строки, отвечающие нескольким условиям, используются операторы AND, OR в сочетании с круглыми скобками. В приведенном в "Решении" примере предикат WHERE фильтрует строки, для которых:
-
-
 
 <ul>
 <li>DEPTNO равен 10 или</li>
@@ -67,7 +60,6 @@ permalink: /books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple
 <br/>
 Например, посмотрим, как изменится результирующее множество, если использовать в запросе круглые скобки, как показано ниже:
 
-
     select e.*
     from emp e
     where 1=1
@@ -77,7 +69,6 @@ permalink: /books/molinaro/retrieving_records/finding-rows-that-satisfy-multiple
      or e.sal <= 2000
     )
     and e.deptno = 20;
-
 
 <br/>
 

@@ -1,27 +1,23 @@
 ---
 layout: page
 title: Возвращение n случайных записей таблицы
+description: Возвращение n случайных записей таблицы
+keywords: Возвращение n случайных записей таблицы
 permalink: /books/molinaro/retrieving_records/returning-n-random-records-from-a-table/
 ---
 
-### Возвращение n случайных записей таблицы
+# Возвращение n случайных записей таблицы
 
-
-
-<h3>Задача</h3>
+### Задача
 
 Требуется возвратить некоторое число записей таблицы, выбранных случайным образом. Необходимо так изменить следующее выражение, чтобы при каждом последующем выполнении оно возвращало разные пять строк:
-
 
     select e.ename, e.job
     from emp e
 
-
-
 <h3>Решение</h3>
 
 Используйте встроенную функцию VALUE, которая находится во встроенном пакете DBMS_RANDOM, в сочетании с ORDER BY и встроенную функцию ROWNUM:
-
 
     select x.*
     from (
@@ -31,21 +27,19 @@ permalink: /books/molinaro/retrieving_records/returning-n-random-records-from-a-
          ) x
     where rownum <=5
 
-
 <br/>
-
 
     ENAME      JOB
     ---------- ----------
     MILLER     CLERK
     SMITH      CLERK
-    KING       PRESIDENT  
+    KING       PRESIDENT
     JONES      MANAGER
     TURNER     SALESMAN
 
     ENAME      JOB
     ---------- ----------
-    KING       PRESIDENT  
+    KING       PRESIDENT
     ALLEN      SALESMAN
     JAMES      CLERK
     SCOTT      ANALYST
@@ -54,7 +48,6 @@ permalink: /books/molinaro/retrieving_records/returning-n-random-records-from-a-
 <br/>
 
 <h3>Обсуждение</h3>
-
 
 Происходит сортировка результирующего набора с помощью оператоара ORDER BY и функции dbms_random.value(). После этого происходит ограничение числа возвращаемых строк с помощью функции ROWNUM.
 

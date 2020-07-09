@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Обновить данные в PL/SQL Developer без блокировки
+description: Обновить данные в PL/SQL Developer без блокировки
+keywords: Обновить данные в PL/SQL Developer без блокировки
 permalink: /other/plsql-developer/update-data/
 ---
-
 
 # Обновить данные в PL/SQL Developer без блокировки
 
@@ -14,7 +15,6 @@ permalink: /other/plsql-developer/update-data/
     SELECT * FROM TABLE my_table for update;
 
 После этого таблица блокирована и никто другой не может работать с ней. (По крайней мере так было настроено.)
-
 
 Чтобы не блокировать работу других пользователей, можно написать запрос следующим образом. И тогда таблица не будет блокирована.
 

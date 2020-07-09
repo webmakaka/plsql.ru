@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Извлечение подмножества столбцов из таблицы
+description: Извлечение подмножества столбцов из таблицы
+keywords: Извлечение подмножества столбцов из таблицы
 permalink: /books/molinaro/retrieving_records/retrieving-a-subset-of-columns-from-a-table/
 ---
 
-### Извлечение подмножества столбцов из таблицы
+# Извлечение подмножества столбцов из таблицы
 
 <h3>Задача</h3>
 
@@ -14,12 +16,10 @@ permalink: /books/molinaro/retrieving_records/retrieving-a-subset-of-columns-fro
 
 Задайте интересующие вас столбцы. Например, чтобы выбрать только имя, номер отдела и зарплату служащих, можно использовать такой запрос:
 
-
     select e.ename, e.deptno, e.sal
     from emp e
 
 <br/>
-
 
     ENAME      DEPTNO SAL
     ---------- ------ ---
@@ -39,8 +39,6 @@ permalink: /books/molinaro/retrieving_records/retrieving-a-subset-of-columns-fro
     MILLER         10 1300
 
      14 rows selected
-
-
 
 <br/>
 <h3>Обсуждение</h3>

@@ -1,24 +1,20 @@
 ---
 layout: page
 title: Подготовка окружения
+description: Подготовка окружения
+keywords: Подготовка окружения
 permalink: /books/molinaro/prepare-environment/
 ---
 
-
-### Подготовка окружения
-
+# Подготовка окружения
 
 Используется oracle12 release 1 (последняя версия базы данных oracle на момент написания).
 
-
 Необходимо подключиться к базе под учетной записью пользователя с административными правами (например, system) и создать пользователя который сможет создавать, удалять и вносить изменения в таблицы.
-
 
     -- создать пользователя manager с паролем manager
     CREATE USER manager
     IDENTIFIED BY manager;
-
-
 
 <br/>
 
@@ -31,8 +27,6 @@ permalink: /books/molinaro/prepare-environment/
 
     -- предоставить пользователю manager возможность создавать представления
     -- GRANT CREATE VIEW TO manager;
-
-
 
 <br/>
 
@@ -49,7 +43,6 @@ permalink: /books/molinaro/prepare-environment/
      COMM NUMBER ,
      DEPTNO NUMBER
      );
-
 
 <br/>
 
@@ -104,7 +97,6 @@ permalink: /books/molinaro/prepare-environment/
             DNAME VARCHAR2(14),
             LOC VARCHAR2(13) );
 
-
 <br/>
 
     INSERT INTO DEPT VALUES (10, 'ACCOUNTING', 'NEW YORK');
@@ -114,21 +106,15 @@ permalink: /books/molinaro/prepare-environment/
 
 <br/>
 
-
     CREATE TABLE T1 (ID INTEGER);
 
-
 <br/>
-
 
     INSERT INTO T1 VALUES (1);
 
-
 <br/>
 
-
     CREATE TABLE T10 (ID INTEGER);
-
 
 <br/>
 
@@ -143,9 +129,7 @@ permalink: /books/molinaro/prepare-environment/
     INSERT INTO T10 VALUES (9);
     INSERT INTO T10 VALUES (10);
 
-
 <br/>
-
 
     CREATE TABLE T100 (ID INTEGER);
 

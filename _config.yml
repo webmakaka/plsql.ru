@@ -2,8 +2,7 @@
 title: plsql.ru
 
 description: Программирование на языке PL/SQL для баз данных Oracle
-
-keywords: PL/SQL, Oracle, DataBase, Query, Хранимые процедуры, Функции
+keywords: Oracle, DataBase, SQL, PL/SQL, Запросы, Хранимые процедуры, Функции, Ветвления, Циклы, Курсоры
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://plsql.ru" # the base hostname & protocol for your site

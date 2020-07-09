@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Как задатьстолбцам значимые имена
+title: Как задать столбцам значимые имена
+description: Как задать столбцам значимые имена
+keywords: Как задать столбцам значимые имена
 permalink: /books/molinaro/retrieving_records/providing-meaningful-names-for-columns/
 ---
 
-### Как задатьстолбцам значимые имена
+# Как задать столбцам значимые имена
 
 <h3>Задача</h3>
 
@@ -34,15 +36,12 @@ permalink: /books/molinaro/retrieving_records/providing-meaningful-names-for-col
 
      14 rows selected
 
-
-
 Что такое "sal"? Сокращенная запись "sale" (продажа)? Может это чье-то имя? Что означает "comm"? Сокращение от "communications" (обобщение)? Столбы в результирующем наборе должны иметь более понятные названия.
 
 <h3>Решение</h3>
 
-Чтобы изменить имена в результаттах запроса, используйте ключевое слово AS следующим образом: исходное_имя AS новое_имя.
+Чтобы изменить имена в результаттах запроса, используйте ключевое слово AS следующим образом: исходное*имя AS новое*имя.
 Для некоторых баз данных применение AS необязательно, но во всех оно допускается:
-
 
     select e.sal as salary, e.comm as commission
     from emp e
@@ -67,7 +66,6 @@ permalink: /books/molinaro/retrieving_records/providing-meaningful-names-for-col
       1300
 
      14 rows selected
-
 
 <h3>Обсуждение</h3>
 
