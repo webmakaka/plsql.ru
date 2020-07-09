@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Простейшая программа на PL/SQL "Hello World"
-description: Простейшая программа на PL/SQL "Hello World"
-keywords: PL/SQL, "Hello World"
+description: Простейшая программа на PL/SQL Hello World
+keywords: PL/SQL, Hello World
 permalink: /plsql/hello-world-plsql/
 ---
 
