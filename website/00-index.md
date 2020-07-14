@@ -30,7 +30,7 @@ permalink: /
 
 email:
 
-![Marley](/img/a3333333mail.gif "Marley")
+![Marley](/img/a3333333mail.gif 'Marley')
 
 <br/>
 
@@ -67,4 +67,27 @@ email:
 
 <br/>
 
-Если возникнут вопросы, их можно задавать в телеграм группе. (ссылка вверху).
+### Notes for Professionals (Free Materials)
+
+<div align="center">
+
+<table>
+
+<tr>
+<td>
+
+ <a href="https://goalkicker.com/OracleDatabaseBook/">
+    <img src="https://goalkicker.com/OracleDatabaseBook/OracleDatabaseGrow.png" border="0" alt="Single"></a>
+
+</td>
+<td>
+
+  <a href="https://goalkicker.com/SQLBook/">
+    <img src="https://goalkicker.com/SQLBook/SQLGrow.png" border="0" alt="Single"></a>
+
+</td>
+</tr>
+
+</table>
+
+</div>
