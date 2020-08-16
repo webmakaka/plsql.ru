@@ -4,11 +4,11 @@ title: plsql.ru
 description: Программирование на языке PL/SQL для баз данных Oracle
 keywords: Oracle, DataBase, SQL, PL/SQL, Запросы, Хранимые процедуры, Функции, Ветвления, Циклы, Курсоры
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://plsql.ru" # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog/
+url: 'https://plsql.ru' # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
 
-gems:
-  - jekyll-sitemap
+plugins:
+    - jekyll-sitemap
