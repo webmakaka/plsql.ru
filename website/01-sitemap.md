@@ -52,7 +52,8 @@ permalink: /sitemap/
 </ul>
 
 <br/>
-<h3>SQL Разное</h3>
+
+### SQL Разное
 
 <ul>
     <li><a href="/other/dates/">Примеры работы с датами в Oracle</a></li>
@@ -88,6 +89,14 @@ permalink: /sitemap/
     <li><a href="/other/variables-concat/">Конкатенация переменных в блоке PL/SQL для формирования запроса</a></li>
     <li><a href="/other/summa_propis/">Сумма Прописью</a></li>
     <li><a href="/other/code-formatting/">Примеры оформления кода PL/SQL</a></li>
+</ul>
+
+<br/>
+
+### Из чата
+
+<ul>
+    <li><a href="/other/queue/">Очереди</a></li>
 </ul>
 
 <br/>
