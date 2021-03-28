@@ -1,36 +1,17 @@
 <footer class="site-footer">
     <div class="wrapper">
         <!-- disqus -->
-
-        <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            /* * * CONFIGURATION VARIABLES * * */
-            var disqus_shortname = "plsql-ru";
-
-            /* * * DON'T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement("script");
-                dsq.type = "text/javascript";
-                dsq.async = true;
-                dsq.src = "//" + disqus_shortname + ".disqus.com/embed.js";
-                (
-                    document.getElementsByTagName("head")[0] ||
-                    document.getElementsByTagName("body")[0]
-                ).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the comments.</noscript>
-
         <!-- disqus -->
 
         <!-- Google Analitics -->
-
         <!-- Google Analinics -->
 
         <div align="center">
             {% if page.keywords %}
-              <p><strong>Tags:</strong> {{ page.keywords | strip_html | strip_newlines | truncate: 160 }}
-            {% endif %}</p>
+            <p>
+                <strong>Tags:</strong> {{ page.keywords | strip_html |
+                strip_newlines | truncate: 160 }} {% endif %}
+            </p>
         </div>
 
         <h2 class="footer-heading">PL/SQL</h2>
@@ -44,14 +25,16 @@
         </div>
 
         <div class="footer-col-wrapper">
-            <div class="footer-col  footer-col-3">
+            <div class="footer-col footer-col-3">
                 <p class="text">
                     Исходные коды проекта хранятся на
-                    <a href="https://bitbucket.org/plsql/plsql.ru">bitbucket</a
-                    >.<br />
+                    <a href="https://github.com/webmakaka/plsql.ru">github</a>.
+                    Можете заводить Issue и Discussions, при необходимости.
 
-                    Если будут желающие добавлять свои знания или исправлять
-                    ошибки и неточности, пишите в телеграм
+                    <br />
+
+                    Чтобы задать вопрос, добавить свои знания, исправить ошибки
+                    и неточности, пишите в телеграм
                     <a href="/chat/" rel="nofollow">чате</a>.
                 </p>
             </div>
