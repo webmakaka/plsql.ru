@@ -39,3 +39,14 @@ http://localhost:4006
 ### Контакты
 
 Чтобы задать вопрос, добавить свои знания, исправить ошибки и неточности, пишите в телеграм <a href="//plsql.ru/chat/" rel="nofollow">чате</a>.
+
+<br/>
+
+---
+
+<br/>
+
+**Marley**
+
+Any questions in english: <a href="https://oracledba.net/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://plsql.ru/chat/">Телеграм чат</a>

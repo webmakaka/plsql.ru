@@ -8,7 +8,7 @@ permalink: /prepare-to-development/ide-for-plsql-development/
 
 # Среды программирования для языка PL/SQL
 
-Из сред разработки, можно воспользоваться бесплатным средством <a href="https://www.oracle.com/tools/downloads/sqldev-v192-downloads.html" rel="nofollow">Oracle SQL Developer</a>. Я установил на рабочем компьютере Oracle Linux и смог отказаться от PL/SQL developer в пользу этого бесплатного средства. Впрочем, я сейчас больше выполняю запросы, чем что-то программирую на PL/SQL.
+Из сред разработки, можно воспользоваться бесплатным средством <a href="https://www.oracle.com/tools/downloads/sqldev-downloads.html" rel="nofollow">Oracle SQL Developer</a>. Я установил на рабочем компьютере Oracle Linux и смог отказаться от PL/SQL developer в пользу этого бесплатного средства. Впрочем, я сейчас больше выполняю запросы, чем что-то программирую на PL/SQL.
 
 <br/>
 
