@@ -2,7 +2,9 @@
 
 <br/>
 
-### Запустить plsql.ru на своем в хосте Ubuntu в режиме разработки. (Должен быть установлен docker и docker-compose)
+### Запустить plsql.ru на своем в хосте Ubuntu в режиме разработки.
+
+Инсталлируете <a href="//sysadm.ru/devops/containers/docker/setup/ubuntu/">docker</a> и docker-compose.
 
 ```
 $ docker-compose up
