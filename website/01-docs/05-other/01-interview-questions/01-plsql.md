@@ -13,10 +13,52 @@ permalink: /other/interview-questions/plsql/
 Лично у меня, на моем интервью по PL/SQL обычно спрашивали достаточно простые вещи. Вроде if / else и в зависимости от ветви вызвать ту или иную процедуру.<br/>
 
 Правда нужно отметить, что я никогда не работал чисто PL/SQL программистом. Скорее так, по мелочи.
-
 Запомнился вопрос.
 
-Как одной командой удалить все дубликаты из таблицы.
+<br/>
+
+### Как одной командой удалить все дубликаты из таблицы.
+
+<br/>
+
+```
+SELECT * FROM
+  employees e
+WHERE
+  e.rowid <>
+    (
+      SELECT
+        MAX(ee.rowid)
+      FROM
+                employees ee
+            WHERE
+        ee.first_name = e.first_name
+        AND ee.last_name = e.last_name
+        AND ee.age = e.age
+    );
+```
+
+https://t.me/oracle_dba_ru/9200
+
+<br/>
+
+```
+delete FROM t_table e
+WHERE
+  e.rowid <>
+    (
+      SELECT
+        MAX(ee.rowid)
+      FROM t_table ee
+      WHERE
+          ee.date_p = e.date_p
+      AND ee.product_p = e.product_p
+    );
+```
+
+<br/>
+
+https://t.me/oracle_dba_ru/9212
 
 <br/>
 
