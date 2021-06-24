@@ -62,6 +62,11 @@ https://t.me/oracle_dba_ru/9212
 
 <br/>
 
+См. также:  
+https://www.sql.ru/faq/faq_topic.aspx?fid=711
+
+<br/>
+
 **Ниже реальный пример от коллеги, когда он куда-то ходил собеседоваться. Copy / Paste**
 
 <br/>
