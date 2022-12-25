@@ -3,7 +3,7 @@ layout: page
 title: Материалы для изучения SQL и PL/SQL
 description: Материалы для изучения SQL и PL/SQL
 keywords: Материалы для изучения SQL и PL/SQL
-permalink: /beginning/library/
+permalink: /library/
 ---
 
 # Материалы для изучения PL/SQL:
@@ -24,14 +24,25 @@ permalink: /beginning/library/
 
 <br/>
 
-### Записи вебинаров от обучающего центра "Специалист" (SQL, PL/SQL)
+### [Чалышев Максим Михайлович] Oracle SQL. 100 шагов от новичка до профессионала [RUS, 2019]
 
-<br/>
 <br/>
 
 <div align="center">
-	<img src="/img/library/oracle-sql-plsql.png" border="0" alt="Oracle SQL Specialist">
+	<img src="/img/library/Oracle-SQL-100-steps-free-book.png" border="0" alt="Чалышев. Oracle SQL. 100 шагов от новичка до профессионала">
 </div>
+
+<br/>
+
+Книга распространяется бесплатно. Максим разрешил опубликовать ее на сайте для свободного скачивания. По содержанию, ничего сказать не могу. Если есть желание исправить неточности или что-то добавить, пишите.
+
+<br/>
+
+Печатная версия книги продается в магазинах.
+
+<br/>
+
+[Скачать](/files/library/books/Oracle-SQL-100-steps-free-book.pdf)
 
 <br/>
 
