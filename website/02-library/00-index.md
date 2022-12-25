@@ -42,7 +42,7 @@ permalink: /library/
 
 <br/>
 
-[Скачать](/files/library/books/Oracle-SQL-100-steps-free-book.pdf)
+[Скачать](//files.plsql.ru/library/books/Oracle-SQL-100-steps-free-book.pdf)
 
 <br/>
 
