@@ -22,6 +22,7 @@ permalink: /prepare-to-development/oracle-database-installation/
 > В общем для него подготовили виртуальную машину с Windows XP. На нее поставили Oracle 11 XE и PL/SQL Developer. Никаких дополнительных Oracle клиентов не понадобилось. Кому нужна база исключительно для разработки на PL/SQL, возможно, что такой вариант подойдет.
 
 <br/><br/>
+
 <strong>Возможно, что следующие ссылки также будут полезны:</strong>
 
 <ul>
@@ -33,5 +34,10 @@ permalink: /prepare-to-development/oracle-database-installation/
 
 <br/><br/>
 
-<p>Если с инсталляцией сервера баз данных в Linux возникнут проблемы, попробуйте <a href="http://odba.ru/showthread.php?t=294">установить сервер баз данных  Oracle в операционной системе Windows </a>.
+<p>Если с инсталляцией сервера баз данных в Linux возникнут проблемы, попробуйте <a href="//oracle-dba.ru/database/installation/">установить сервер баз данных  Oracle в операционной системе Windows </a>.
 </p>
+
+<!-- <br/><br/>
+
+<p>Если с инсталляцией сервера баз данных в Linux возникнут проблемы, попробуйте <a href="http://odba.ru/showthread.php?t=294">установить сервер баз данных  Oracle в операционной системе Windows </a>.
+</p>  -->
